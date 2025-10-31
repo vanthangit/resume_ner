@@ -1,0 +1,114 @@
+## CONTACT INFORMATION
+
+Name: Hoang Dung Phi
+
+Gender: Male
+
+Address: 4/17 Do Son, 4th Ward, Tan Binh District, Ho Chi Minh City
+
+Email: hoangdungphi2511@gmail.com
+
+Cell:  01224972289
+
+## PERSONAL INFORMATION
+
+<!-- image -->
+
+Date of birth: 25-11-1990
+
+Nationality: Vietnam
+
+Marital status:
+
+Single
+
+Education: University
+
+Foreign language:
+
+English
+
+Identity card: 273372063
+
+## EDUCATION
+
+I also have TOEIC certificate with total score is Listening: 255- Reading: 195, Proskill in SHTP Training Center HCM,  graduated IT in SaiGon University, graduated IT in Infoworschool and graduated Android Developer in Computer Center University Of Science Ho Chi Minh.
+
+## POSITION
+
+## Junior developer mobil
+
+## ACADEMIC QUALIFICATION
+
+-  10/2012 graduated IT in SaiGon University.
+-  10/2014 graduated IT in Infoworschool.
+-  2/2016   graduated   Android   Developer   in   Computer   Center   University   Of Science Ho Chi Minh.
+-  Microsoft Certified Professional (MCP)
+-  70-526:  Microsoft   .NET   Framework   2.0   -   Windows-Based   Client Development
+-  70-548:  Designing and Developing Windows-Based Applications by Using the Microsoft .NET Framework
+-  70-536: Microsoft   .NET   Framework   -   Application   Development Foundation
+
+## PROFILE
+
+## PRACTICAL EXPERIENCE IN WORK
+
+## Project:
+
+1. .'Project Calofic '.  Language: Sql server 2012,  Ms Navision , java script(ext.net, ), C#, ERP in FPT Software. Role: Fix bug, developer new modul, knowledge BA. (8 year)
+2. Project mobil in Viet Uc Electronic-Trading(1.5 year)
+- a. Project android:
+- i. Gamecard on CH Play (esclipe and Android studio)
+5.  Đăng nhập:  Facebook, google and yahoo.
+6.  Menu sản phẩm
+7.  Trang Sản phẩm
+8.  Giỏ hàng
+9.  Liên hệ
+10.  Khuyến mãi: Google Cloud Messaging
+11.  Thanh toán : onecom, Paypal
+12.  Server: php và mysql
+- ii. Vnsupermark on CH Play (esclipe and Android studio)
+14.  Đăng nhập: Facebook, google and yahoo.
+15.  Menu sản phẩm
+16.  Trang Sản phẩm
+17.  Điểm danh hằng ngày
+18.  Giỏ hàng
+19.  Liên hệ
+20.  Khuyến mãi: Google Cloud Messaging
+21.  Thanh toán : onecom, Paypal
+22.  Server: php và mysql
+- b. Project ios:
+- i. Gcvae on App Store (object C)
+25.  Đăng nhập: Facebook.
+26.  Menu sản phẩm:
+27.  Trang Sản phẩm:
+28.  Giỏ hàng:
+29.  Liên hệ:
+30.  Khuyến mãi
+31.  Thanh toán : onecom, Paypal
+32.  Server: yii framework và mysql
+3. Project game in Viet Uc Electronic-Trading(6 month)
+- a. Unity
+- b. Server: Node js, socket io.
+
+## SKILLS
+
+- -Object C, swift in xcode.
+- -Java in android studio/Esclipe.
+- -Mysql.
+- -Yii framework.
+- -Node js.
+- -C# in unity.
+- -Good understand of OOP programming
+- -Experience up app on the App Store, CH Play
+
+## ACTIVITIES
+
+- -Leader infoworldschool student.
+- -60 Earth hour
+
+## MORE INFORMATION
+
+- -Expertise in application developing, mobil developing. Self starter, creative, dynamic, enthusiastic, team player, dependable with strong skills in problem solving.
+- -Good English verbal and reading.
+- -Able to quickly learn new technologies, High logical thinking ability skills, keen on researching and discovering new programming languages as well as techniques related to computer. Ability to work under pressure and work on tight deadline with the demand of fast moving environment.
+- -Hobbies:Computer , reading book, table tennis, football, Music ...

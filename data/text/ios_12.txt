@@ -1,0 +1,103 @@
+## CURRICULUM VITAE
+
+| Positions applied for : Mobile Software Engineer   |
+|----------------------------------------------------|
+| Department : Software Development                  |
+
+## A. PERSONAL DETAILS
+
+| Full name : Pham Dang Duy Khanh                                                    | Male/Female: Male                                                                  | Marital status: Single                           |
+|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------|
+| Date of birth : 07-31-1990                                                         | Place of birth : Ben Tre Province                                                  | Nationality : Viet Nam                           |
+| ID Card number: 321387137                                                          | Issued date: 05-23-2006                                                            | Issued place: Ben Tre Province's public security |
+| Registered resident address : 153B, Phu Nhuan Ward, Ben Tre Town, Ben Tre Province | Registered resident address : 153B, Phu Nhuan Ward, Ben Tre Town, Ben Tre Province | Mobile : 0977505483                              |
+| Contact address: 463B/12 CMT8 St., District 10, Ho Chi Minh City                   | Contact address: 463B/12 CMT8 St., District 10, Ho Chi Minh City                   | Email address : khanh.phamdd@gmail.com           |
+
+## B. QUALIFICATIONS
+
+| Period    | Name of Institution                     | Faculty                           | Qualification        | Grade     |
+|-----------|-----------------------------------------|-----------------------------------|----------------------|-----------|
+| 2008-2011 | University of Sciences Ho Chi Minh city | Information Technology Department | Software Engineering | Excellent |
+
+## C. SUMMARY
+
+- -3 years of working experience in software development.
+- -Strong knowledge in Object Oriented Programming.
+- -Competent in Objective C, Java programming
+- -Knowledge in Swift programming.
+- -Good knowledge in iOS platform.
+- -Familiar with front-end development using HTML, CSS, JS.
+- -Good knowledge about relational database.
+- -Fast learning capability, good attitude toward software development on mobile platforms.
+
+## D. WORK EXPERIENCE
+
+September 2013 - September 2014
+
+: Full-time staff in CSC Vietnam
+
+: Position: Software Engineer
+
+May 2012 - September 2013
+
+: Full-time staff in TMA Solution
+
+: Position: Software Engineer
+
+November 2011 - May 2012
+
+: Full-time staff in Tin Lien Solution
+
+: Position: Java Web Developer
+
+## E. SKILLS
+
+| Programming     | Objective-C, C#, C++, Java, HTML, CSS, JS     |
+|-----------------|-----------------------------------------------|
+| Tools           | XCode , UML, SVN, Visual Studio, Eclipse      |
+| Office software | MS Word, MS Excel, MS PowerPoint, MS Project. |
+| Database        | MySQL, MS SQL Server, SQLite                  |
+| English         | TOEIC 700                                     |
+
+## F. TAKEN PROJECT
+
+| Project's name : IPOS (Web, iPad version)   | Project's name : IPOS (Web, iPad version)                                                                                                                                                           |
+|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project Developed For CSC Vietnam           | Project descriptions The web-based and iPad application that help agent sales insurance products, include:                                                                                          |
+| Duration 9 months                           | - Admin, Manager can manage/configure insurance products. - Agent will meet customers, add their information and make some illustrations and become proposal for some insurance products from that. |
+| Role Developer                              | - The app use e-signature to allow their sign on proposal form by iPad and then submit these documents to configured repository. Programming languages : Java, Objective-C                          |
+
+| Project's name : GroundTruth (Web, iPad version)   | Project's name : GroundTruth (Web, iPad version)                                                                                                                                                                                                                                                         |
+|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project Developed For BrightStar Company           | Project descriptions Ground Truth is a field force management tool for defining and monitoring call cycle activity targets for sales teams, submission of activity sheets via mobile devices, store visit scheduling, store activity history and reporting. Programming languages : ASP.NET, Objective-C |
+| Duration 11 months                                 | Project descriptions Ground Truth is a field force management tool for defining and monitoring call cycle activity targets for sales teams, submission of activity sheets via mobile devices, store visit scheduling, store activity history and reporting. Programming languages : ASP.NET, Objective-C |
+| Role Developer                                     | Project descriptions Ground Truth is a field force management tool for defining and monitoring call cycle activity targets for sales teams, submission of activity sheets via mobile devices, store visit scheduling, store activity history and reporting. Programming languages : ASP.NET, Objective-C |
+
+| Project's name : ECMS   | Project's name : ECMS                                                                                                                                                                                                                            |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project Developed For   | Project descriptions Admin page to configure content of iGuest mobile app, is used in hotel, which guests can received messages, read information were provided by that hotel, and make orders, request, check-in…) Programming languages : Java |
+| FCS Company             | Project descriptions Admin page to configure content of iGuest mobile app, is used in hotel, which guests can received messages, read information were provided by that hotel, and make orders, request, check-in…) Programming languages : Java |
+| Duration                | Project descriptions Admin page to configure content of iGuest mobile app, is used in hotel, which guests can received messages, read information were provided by that hotel, and make orders, request, check-in…) Programming languages : Java |
+| 6 months                | Project descriptions Admin page to configure content of iGuest mobile app, is used in hotel, which guests can received messages, read information were provided by that hotel, and make orders, request, check-in…) Programming languages : Java |
+
+| Role      |
+|-----------|
+| Developer |
+
+| Project's name : eHousekeeping    | Project's name : eHousekeeping                                                                                                                                                                                                                                  |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project Developed For FCS Company | Project descriptions: A WebApp to manage hotel with some functions: cleaning assignment; booking room; manage room and public area in hotel. Work with mobile application to allow customer order food and some other services. Programming languages : ASP.NET |
+| Duration 2 months                 |                                                                                                                                                                                                                                                                 |
+| Role Developer                    |                                                                                                                                                                                                                                                                 |
+
+| Project's name: Vigogo Web              | Project's name: Vigogo Web                                                                                                                                                                                             |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project Developed For Tin Lien Solution | Project descriptions : An e-commerce website provides the market's online B2B in Vietnam, connecting customers, suppliers Vietnam every day. Programming languages : Java (JSP, Servlet). Reference: http://vigogo.com |
+| Duration 2 months                       | Project descriptions : An e-commerce website provides the market's online B2B in Vietnam, connecting customers, suppliers Vietnam every day. Programming languages : Java (JSP, Servlet). Reference: http://vigogo.com |
+| Role Web Developer                      | Project descriptions : An e-commerce website provides the market's online B2B in Vietnam, connecting customers, suppliers Vietnam every day. Programming languages : Java (JSP, Servlet). Reference: http://vigogo.com |
+
+| Project's name : Freelancezone Web                                             | Project's name : Freelancezone Web                                                                                                                                                          |
+|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project Developed For Tin Lien Solution (partner: Dovalize Pte Ltd. Singapore) | Project descriptions : Help the regional freelance and part time professionals in seeking the right freelance and part-time jobs, assignments. Programming languages : Java (JSP, Servlet). |
+| Duration 3 months                                                              | Reference : http://freelancezone.com.sg                                                                                                                                                     |
+| Role Web Developer                                                             |                                                                                                                                                                                             |

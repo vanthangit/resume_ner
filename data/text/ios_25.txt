@@ -1,0 +1,85 @@
+<!-- image -->
+
+## PERSONAL SUMMARY :
+
+Good communication skills and enjoy community activities.
+
+## EDUCATION
+
+Step 2011 :
+
+University of Technology Education HCM City
+
+-  Major:  Information Technology
+
+-  Degree:
+
+Information Technology Engineers and Certificate of Education.
+
+## EXPERIENCE:
+
+July 2011 - Present :
+
+TMA Solutions
+
+- ∞ Coding
+- ∞ Contact directly to customer to clarify the requirement.
+- ∞ Sharing to the team new technical.
+- ∞ Support other teams in company.
+
+## Relevant projects:
+
+| PROJECTS                                                                                                                                                                                                         | TECHNOLOGIES                                                                         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Swedish Dictionary (iPhone, iPod Touch) Develop a Swedish dictionary. Key features: ∞ Work look-up ∞ Word suggestion ∞ Cross-words search ∞ Bookmark and history ∞ Share on Facebook, via email Duties: ∞ Coding | ∞ System Configuration ∞ UIKit, Foundation ∞ SQLite ∞ Multi-threading ∞ Facebook SDK |
+
+## TRAN DUC TRINH
+
+Address:
+
+Date of Birth:
+
+20      January 1988
+
+14/201A,La Xuan Oai Str, 9 Dist., HCM City.
+
+Phone:               01264774647
+
+Email:               trinhduc20@gmail.com
+
+Marital status:  Single
+
+## CURRICULUM VITAE
+
+| An application to for users can download, buy and play media from app. The media must be encrypted all time to prevent hacker. Key features: ∞ Buy and download media from server ∞ Play a encrypted media from app ∞ Synchronize medias between devices. ∞ Manage media in app. Duties: ∞ Coding ∞ Software Design Specification      | ∞ System Configuration ∞ UIKit, Foundation ∞ Core Data ∞ HTTPs Request ∞ AES (Advanced Encryption Standard)   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Dancing to the Beat (iPhone) An entertainment application. The application can make a dancing girl when have music. Key features: ∞ Receive audio data ∞ Process data. ∞ Make a dancing girl. Duties:                                                                                                                                  | ∞ System Configuration ∞ UIKit, Foundation ∞ Core Audio ∞ Cocos 2D ∞ Bluetooth API                            |
+| ñ Coding Personal Wage Management (iPhone) An application allows users can manage their job, shift. Beside the app also calculate their income with knowing rules. Key features: ∞ Calculate income in weekly, fortnightly, monthly. ∞ Manage jobs and shifts. ∞ Rules configuration Duties: ∞ Coding ∞ Software Design Specification | ∞ System Configuration ∞ UIKit, Foundation ∞ Core Data ∞ Calendar SDK                                         |
+
+| Sky Perfect TV (iPhone, iPad) An application like TV magazine. User can use application to preview channel, program and also can see info of these program. Key features: ∞ XML parser ∞ List of genre, channel, and program. ∞ Search by program name. ∞ Bookmark program name ∞ Watch video program preview. ∞ Share info of program in social network. Duties: ∞ Coding   | ∞ System Configuration ∞ UIKit, Foundation ∞ Core Data ∞ XML SDK ∞ Twitter SDK ∞ Facebook SDK ∞ HTTPs Request   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| ∞ Software Design Specification Visual Yellow Page (iPhone, iPad) Navigation application, the application allow user can find nearby locations (restaurant, entertainment, school, shopsÉ). Key features: ∞ Search nearby locations ∞ View detail of location. ∞ Bookmark location ∞ Facebook, email. Duties:                                                                | ∞ System Configuration ∞ UIKit, Foundation ∞ Core Data ∞ Location Manager ∞ Facebook SDK ∞ HTTPs Request        |
+| ∞ Coding AppPlot SDK Develop a SDK help user developer to handle hard works with these below functions: Key features: ∞ ORM(Object-relational mapping) ∞ Authentication ∞ Register device UDID for push notification ∞ Synchronization.                                                                                                                                      | ∞ Block ∞ Multitasking ∞ UIKit, Foundation ∞ SQlite ∞ HTTP Request                                              |
+
+- ∞ Encrypt and decrypt fields of table in local database.
+
+## Duties:
+
+- ∞ Coding
+
+- ∞ Software Design Specification
+
+## SKILLS AND ACTIVITIES:
+
+- -Good at English and at requirement analysis.
+- -Experience in writing document and presentation.
+- -Well-organized, creative and capable of performing multiple tasks simultaneously.
+- -Self-motivated and eager to learn.
+- -Good responsibility and teamwork.
+
+## HOBBIES :
+
+- -Reading.
+- -Music.
+
+* All certificates and related documents will be submitted when required.

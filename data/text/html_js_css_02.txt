@@ -1,0 +1,67 @@
+Address: 520/24, 13rd Avenue, Hiep Binh Phuoc Ward, Thu Duc  District, Ho Chi Minh City, Viet
+
+Nam
+
+Phone: +84 983.089.042
+
+Skype: luandinhchi
+
+Email: dinhluan1989@gmail.com
+
+## RÉSUMÉ LUAN DINH CHI
+
+<!-- image -->
+
+## SUMMARY
+
+- o 3 years of experience in web development
+- o 1 year of experience in testing
+- o Good programing and problem solving skills
+- o Ability to work independently or team work
+- o Sense of responsibility, eagerness to learn and work
+
+## SKILLS
+
+- o Programming languages:  Javascript, NodeJS, AngularJS, PHP,  HTML, CSS, Bootstrap, Jquery, Ajax
+- o Database: SQL Server, MySQL, Couchbase, MongoDB, RethinkDB
+- o Operating system: Windows, Linux (Ubuntu)
+- o Language: Fluent communication (TOEIC 770)
+
+## JOB EXPERIENCE
+
+- o 4/2013 - Present: TMA Solutions
+-  Web  Developer: PHP, AngularJS, NodeJS, Javascript, Responsive UI...
+-  Quality Control, Business Analyst Support
+- o 10/2012 - 1/2013: LogiGear VietNam
+-  Product Support: do automation test with  'Test Architect' tool
+
+## RELAVANT PROJECTS
+
+| PROJECT DESCRIPTION                                                                                                                                                                                                                                                                                                                          | TECHNOLOGIES                                                                                                                                                                                                           |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Social Network Web Web for social network activities: chat, activity post… Features: o Chat, Realtime activity post, update, comment… Duties: o Analysis and clarify requirement with team, customer (directly verbal talk) o Implement feature, fix bugs o Review code                                                                      | 1. Angularjs 2. Bootstrap 3. Async, lodash 4. Json, broadcast, emit 5. BranchIO, ng-notify 6. angular-bugsnag 7. betsol-ng-intl-tel-input 8. Moment, ng-file- upload 9. Git, Github 10. App asana                      |
+| Sprinter Management Web Web to manage statistic for 3d sprinters Features: o Manage sprinter's statistic about using status, available status, consumer… Duties: o Analysis and clarify requirement with customer o Implement feature, fix bugs o Review code                                                                                | 11. NodeJS- ExpressJs 12. Angularjs 13. Event Emiter 14. Bootstrap 15. D3 16. RethinkDB 17. Promise, Underscore 18. Json 19. Twilio 20. Bitbucket, Jira                                                                |
+| Telecommunication Management Web Web to manage telecommunication for many user levels: admin, supervisor, user ... Features: o Manage telecommunication for: Tenant, Group, Team, User... Duties: o Analysis and clarify requirement with customer (meeting via skype call once a week ) o Design and Implement API o Review code and deploy | 21. NodeJS- ExpressJs 22. Angularjs, Bootstrap 23. Couchbase DB 24. Promise, Underscore 25. Halson, Json 26. Twilio 27. HTTP headers: If- Non-Match, Accept, Authorization ... 28. SourceTree, Bitbucket 29. SVN, Jira |
+
+| Health Management Web Features: Manage client, care giver, appointment, content... Duties: o Analysis and clarify requirement with leader and customer o Design and Implement API o Implement FE feature o Review code and deploy                                                                                                                                                                                         | 30. NodeJS- SailsJs 31. AngularJS 32. SB Admin 2 33. WYSIWYG- textangular 34. MongoDB 35. Bookshelf, Knex 36. Async, nodemailer 37. Halson, Json, Lodash 38. Git, Remine   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Blog Management System Features: Manage blog, article, image, user... Duties: o Analysis and clarify requirement with leader and FE team o Design and Implement API o Review code and deploy                                                                                                                                                                                                                              | 39. NodeJS- Loopback 40. MongoDB 41. Async 42. Halson, Json, Underscore 43. Authorization 44. Storage Service, Mail 45. Git, Remine                                        |
+| Health Care Web Develop a modern wed to support people for health care: manage stress, build resilience and optimise performance on the go. Features: o Learn about resilience o Understand service challenges o Tools to manage stress o A plan to improve resilience Duties: o Analysis and clarify requirement with customer (daily meeting via skype call) o Design, Implement and review code o Unit test and deploy | 46. AngularJS 47. Bootstrap 48. HTML5, CSS3, Less 49. PHP- Wordpress 50. MySQL 51. SourceTree, Bitbucket, SVN, Jira 52. Grunt, bower, vargrant, NgBoilerplate              |
+| Learning management system It's a learning management system to manage and hold learning through the hierarchy levels: district, school, teacher, class, student, course taking… Main modules:                                                                                                                                                                                                                            | o PHP/Yii framework o MySQL o HTML, CSS, Jquery, Ajax o Do report o Cut PSDs, do UI o Git, SVN, Redmine                                                                    |
+
+|  Landing Page (Site Admin, Teacher) o Manage Users: Add/Edit Users o Manage Districts: Add/Edit Districts o View Activity Report o Manage Classes: Add/Edit Classes o View Course  Course Landing Page  HTML View of Course  Random Quiz Questions Duties : o Communicate and clarify requirement with customer o Implement feature and review code o Test and deploy   |                                                                                                     |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Want board A system helps user buy desired products in quick way, and sell their products more efficient. It is a communication channel between Buyer and Seller, Seller can easily looking for the potential buyers and contact to them.… Duties : o Analyze and clarify requirement with customer o Implement features and APIs                                           | o PHP- Yii framework o HTML, CSS, Jquery, Ajax o Database: MySQL o Cut PSDs, do UI o Git, Bitbucket |
+| Book Selling A website helps user find and buy books online. Admin user can manage book information, manage user, role… Duties : o Analyze and clarify requirement o Implement features                                                                                                                                                                                     | o PHP- MVC model o HTML, CSS, Jquery, Ajax o MySQL                                                  |
+| Student Management Main modules:  Manage student information  Manage school, teacher, class  Manage subject, period registration  Manage examination schedule Duties : o Analyze, design system                                                                                                                                                                         | o C# o SQL server, Lin-Q o Crystal report (SAP)                                                     |
+
+| o Package the application                                                                                                                                                                                                                                                          |                   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Drop web A social article sharing app that lets you compose rich blog articles, save them to the cloud, share with your friends Duties : o Analyze and clarify REQs o Define TCs o Test and report                                                                                 | o Testing         |
+| LG App This is LG TV app (WebOS) based on AccuWeather TV app, using the Enyo framework Duties : o Analyze and clarify REQs o Define TCs o Test and report                                                                                                                          | o Testing         |
+| SkyMotion SkyMotion provides hyper-located weather by minute. This project is to rework the current SkyMotion. Duties : o Analyze and clarify REQs o Define TCs o Test and report                                                                                                  | o Testing         |
+| Automation Test Duties : Do automation test with 'Test Architect' tool: o Develop, plan and implement automated test cases based on software requirements and technical understanding. o Run and debug tests against AUT builds/releases during its development lifecycle o Report | o Automation test |
+
+## EDUCATION
+
+- o 9/2008 - 7/2012: Bachelor of Engineer, major in computer science in HCM University Of Industry.

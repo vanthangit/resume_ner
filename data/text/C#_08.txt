@@ -1,0 +1,100 @@
+<!-- image -->
+
+<!-- image -->
+
+## * Skill
+
+- Proåciency MVC
+- Knowed models Scrum
+- Good team work
+- English reading comprehension
+- Understanding about the Object Oriented Concepts.
+- Understanding of the Database designing concepts
+- Strong learn new technology
+- Ability to work under high pressure
+* Although I do not have much experience in practice, but with knowledge and my enthusiasm I am conådent that I will do
+- a good job
+
+## *Contact
+
+- Adress: P1004 BA4 - dorm B - Vietnam National University, Ho Chi Minh City
+- Tan Lap,Dong Hoa, Di An,Binh Duong
+- Email: dangquocdat.ht@gmail.com
+- Phone: 0989 290 433
+- Place of birth: Cam Thang-Cam XuyenHa Tinh
+
+## DANG QUOC DAT
+
+RUBY ON RAILS, PHP INTERNSHIP
+
+## Proål e
+
+- Name : Đ ặng Quốc Đ ạt
+- Birthday: 29/04/1993
+- Gender: Male
+- University: University of Infomation Technology
+- Major: Infomation Systems.
+- ISC Club's Member - PHP Core Team
+
+## Tech n i cal  Sk i l l
+
+(1 Junior - 5 Expert)
+
+* PROGRAMMING LANGUAGES
+-  PHP:
+-  J ava  ( W eb)  :
+-  Ru by  on   Rai l s
+* WEB TECHNOLOGY
+-  HTM L/HTM L5/CSS/CSS3:
+- -Boot s t r a p3  :
+-  J avaScr i p, J qu er y, A jax :
+-  PHP  -  Yi i   Fr a m ew or k :
+-  PHP  -  W or dpr es s   :
+-  PHP  -  Lar avel , El g g , Open Car d:
+-  J ava  -  Hi ber n a t e  Fr a m ew or k
+
+## Experi en ce
+
+## *ACTUAL PROJECT
+
+-  Bu i l ded  m obi l e i n t er f ace:   m yl i f ei n c.m e  ( 12/20 14)
++ M y  m i s s i on   :   bu i l ded  U I f or M obi l e  f r om UI   W eb  bas ed  on   Des i g n
++   Techn ol og y  :   HTM L5,   CSS3,   Boos t r ap,   J qu er y, J a va s cr i p  an d  Spr ee  f r a m ew or k   f or   Ru by  on   Rai l s
+-  Bu i l ded  n ew   i n t er f a ce  of   chat eau as i a.com ( 11/20 14)
++   M y  m i s s i on :   par t i ci pat ed  i n   bu i l di n g   n ew   i n t er f a ce  of   chat eau s i a.com
+- bas ed  on   Des i g n .
++   Techn ol og y  :   HTM L5,   Cs s 3,   Boos t r a p,   J qu er y  a n d  J a va s cr i p
+-  Cr eat e  I T  Cam p  20 14  w ebs i t e:   i s ccl u b.u i t .edu .vn /ci t c/
++   M y  m i s s i on   :   bu i l ded  a dm i n   pag e
++   Techn ol og y:   PHP   -  Yi i Fr am ew or d
+* COURSE PROJECT
+-  Tr avel   Soci al   N et w or k i n g   Ohphu ot .vn
++ I n f om at i on :   W ebs i t e  i s s m al l t r a vel   s oci al   n et w or k i n g
++   Techn ol og y:   PHP   -  Yi i Fr am ew or k
++   Fu n t i on   : m y  w ebs i t e  i s   s oci al   n et w or k i n g have  f u l l f u n t i on   of   s oci al   n et w or k i n g :   u s er , s t a t u s , l i k e, com m en t ed, ..
++   Scor e  :   9.0
+-  Sw eet   Coof f e  W ebs i t e
++ I n f om at i on :   SC  W ebs i t e  i s   W eb  s a l es   coof f e  on l i n e
++   Techn ol og y:   Hi ber n at e  Fr a m ew or k ,   boot s t r a p
++   Fu n t i on :   vi ew   pr odu ct ,   or der   on l i n e, car t ,   adm i n m an ag er ,   a r t i cl es   f or   coof f ee  have  com m en t ,
++   Scor e  :   9.0
+-  M an ag em en t   s ys t em s u per m ar k et   CoopX t r a  Li n h  T r u n g
++ I n f om at i on :   M an ag em en t   s ys t em s u per m ar k et   CoopX t r a  i s   bu i l t t o m an ag em en t   act i vi t i es   of s u per m ak et   CoopX t r a
++   Techn ol og y:   C#   -  W i n f or m ,   M S  SQL,   DEVEx pr es s
++   Fu n t i on :   M an ag em en t :   s al es , s t a f f , w ar ehou s e, depar t m en t , cu s t om er s , m er chan di s e
++   Scor e  :   9.5
+* DATABASE SYSTEMS
+* DESIGIN,TOOL AND IDE
+-  Usi n g   P HOTOSHOP  CS6
+-  Usi n g   N ETBEA N  I DEs
+-  Usi n g   A dobe  Dr eam w eaver   CS6
+-  Usi n g   G I THu b  f or   T ea m W or k
+-  Have  k n ow l edg e  Des i g n   W eb, t r a n f er   f i l e  PSD  t o  HTM L
+
+-  PhpM ySql   :
+
+-  M S  SQL  :
+
+-  Or acl e  PL/SQL  :
+
+<!-- image -->

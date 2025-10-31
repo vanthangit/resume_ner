@@ -1,0 +1,74 @@
+## NAM QUOC DAM
+
+Mobile Developer
+
+<!-- image -->
+
+-  namdq1969@gmail.com
+
+ 0985 284 148
+
+-  Hochiminh, Vietnam
+
+## EDUCATION
+
+## University of Economics of Hochiminh City
+
+Oct 2008 - May 2012
+
+## WORK EXPERIENCE
+
+## VN COFFEE TEA SERVICE TRADING CORPORATION (THE COFFEE HOUSE)
+
+Oct 2016 - Present
+
+## LIFESTYLE PROJECT MANAGEMENT VIETNAM CO., LTD (TIMO)
+
+Nov 2015 - Oct 2016
+
+- Major: Finance and Bankings
+
+GPA: 7.2/10
+
+## Mobile Developer and Designer
+
+Main responsibilities:
+
+- Develop brand new application in React Native framework. Use Javascript, Objective C and Java.
+- Design prototype app in SketchApp, improve UX and UI
+- Test the application manually.
+- Experience expressjs, mongodb, reactjs, and vuejs.
+
+## Mobile Developer
+
+- Worked in a mobile team using Git to maintain the workflow. Used Objective-C and Cocoa Touch framework to develop native application in mobile with exportedd esign from Zeplin.
+- Secured application from MITM attacks with SSL-pinned certificate, and apply some security layers to protect user from attackers.
+- Stored server's response to Core Data and filtered using predicate.
+- Created categories (Objective C) and extensions (Swift) to extend classes, as well as produced libraries for re-using in projects.
+- Worked directly on Push Notification with APNS (creating certificate, defining push message, ...)
+- Enhanced user experience in a brand new e-banking mobile application.
+- Managed tasks within Agile framework, cleared Sprinted tasks, and controlled JIRA workflows.
+- Developed new features for proprietary iOS applications used on phones; worked with developers to develop top tier solutions for customers.
+- Designed and built advanced applications for iOS platform, and collaborated with cross-functional teams to define, design, and launch new features.
+- Tested code for robustness; executed edge case, usability, and general reliability analysis.
+- Fixed bugs and improved application performance.
+- Wrote unit tests for mobile code and debugged critical application issues such as crashes, memory leaks, and concurrency problems.
+- Integrate RESTFUL web services to retrieve and handle JSON data.
+
+<!-- image -->
+
+## REFERENCES
+
+Trung Huynh Digital Director of The Coffee House
+
+Email: hqtrung@gmail.com
+
+Mobile: 0909495665
+
+## SKILLS
+
+Public Speaking
+
+Database Modelling and Design
+
+Object Oriented Programming

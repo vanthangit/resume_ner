@@ -1,0 +1,114 @@
+## C CU UR RR RI IC CU UL LU UM M   V VI IT TA AE E
+
+## PERSONAL INFORMATION
+
+Full Name:
+
+Tran Huu Tam
+
+<!-- image -->
+
+Date of Birth:
+
+Jan 26 th 1983
+
+Gender:
+
+Male
+
+Marital Status:
+
+Married
+
+Address:
+
+19/69/15 Tran Binh Trong
+
+Street, Ward 5, Binh Thanh District, Ho Chi Minh city
+
+Mobile:
+
+0983 411833
+
+Email:
+
+tranhuutam2001@yahoo.com
+
+## CAREER OBJECTIVE
+
+A mobile developer position in a mobile software development company where I can work in a professional and challenging environment to improve my skills and knowledge as well as  have  an  opportunity  to  prove  my  ability  to  promote  in  my  career  and  reach  great achievements with the company.
+
+## EDUCATION &amp; Certification
+
+-  B.Eng., Ho Chi Minh City University of Technology ( 2001 → 2006 )
+-  Consolation Price in Viet Nam Nokia N97 Widget Challenge. ( 2009, price: 300 USD cash )
+-  Simulator Phase Winner of Global Samsung Bada Challenge ( 2010, price: Samsung Wave 1 device)
+-  Final Phase of Vietnam Bada Developer Challenge.( 2011, price: 65 millions VND cash)
+-  Japanese : Japanese Language Proficiency Test Level 3. ( 2008 )
+-  First price in Windows Phone App Running ( 2012, price: 4 Windows Phone Devices Lumia 800 devices)
+-  TOEIC: 820 points
+-  My apps on AppStore: https://itunes.apple.com/vn/artist/tran-huu-tam/id537631722
+
+| WORKEXPERIENCE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | WORKEXPERIENCE        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| Project : Anomo My role : Senior developer Technology: XMPP, Facebook SDK, Location Service, Google APIs… Company : Vinasource http://www.vinasource.com/  Link of the app on AppStore https://itunes.apple.com/us/app/anomo-meet-new- people/id529027583?mt=8  There is a paper on Asian Weekly about Anomo http://www.nwasianweekly.com/2013/11/anomo-new-mobile-app- meeting-new-people-can-bigger-facebook/  In Anomo, we are doing follow what Facebook does: Wall, Chat, Like/Unlike, Comment, Follow, Ice Breaker Game, Group Chat, Gift…  Some advanced technologies we've been using: Location service, XMPP, Facebook SDK, Game…some add-ons third party: New Relic, Apptentive, Flurry.. | From: 10/2012 To: NOW |
+| Project : Koala My role : Developer and Owner Technology: Peer to Peer, third party to edit images, Facebook SDK Company : Personal application  Link of the app on AppStore https://itunes.apple.com/vn/app/koala-chat-new-nearby- friends/id736620023?mt=8  I did this app for myself to sell on AppStore. Main Features: Group Chat ( Peer to Peer), Edit photo, share images.  After iOS7.0 release, I see there are some interesting new features in SDK, so I'd like to learn it from practice. That's why I did this application as a case study.                                                                                                                                             | From: 10/2013 To: Now |
+| Project : Where is my parking My role : Developer and Owner Technology: MKMapKit, Google APIs, Weather APIs, Facebook SDK Company : Personal application                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | From: 11/2013 To: Now |
+
+| WORKEXPERIENCE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                          |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+|  Link of the app on AppStore https://itunes.apple.com/vn/app/where-is-my- parking/id741536940?mt=8  I did this app for myself to sell in AppStore. Main Features: Find the most convenience place for parking, Draw directions, view in 3D, screen shoot map, share to Facebook.  We do support iPhone and iPad                                                                                                                                                                                                                                                                                                                                                                                                                          |                          |
+| Project : AVA dictionary My role : Developer and Owner Technology: SQLite, Sliding, JavscriptWebBridge, UnZip file APIs Company : Freelance for Mana company http://mana.vn/  Link of the app on AppStore https://itunes.apple.com/vn/app/ava- tu-ien-anh-viet-viet-anh/id647566804?mt=8  Main Features: Dictionary, Setting with Font and Theme  This app is an investigation about the integration between HTML at the UI and native Object-C in background. We render UI by HTML and Javascript, we call native function by using Javascript. It is a flexible way because we can load dynamic HTML and Javascript from our Server.                                                                                                   | From: 10/2012 To: 7/2012 |
+| Project : The Gioi Tin Tuc My role : Developer and Owner Technology: WebView, HTTP Server for Caching, Sliding Menu Company : Freelance for Mana company http://mana.vn/  Link of the app on AppStore https://itunes.apple.com/vn/app/the- gioi-tin-tuc/id680986712?mt=8  I did this app for myself to sell on AppStore. Main Features: Loading news from other Papers, Sliding to read news, Images, Videos from Youtube.  We cache date by using HTTP Server, at any request we save as a token with content of a file. If there is a new request, we get the file from Server and display it in the WebView in the meanwhile we do request to get the newest data then save to Server and reload the WebView if there is newest data. | From: 7/2012 To: 1/2012  |
+| Project : Some PhoneGap apps My role : Developer and Owner Technology: PhoneGap, PhoneGap plugins, Facebook SDK Company : Personal applications  Link of the app on AppStore https://itunes.apple.com/vn/app/english-khmer/id541420892?mt=8 https://itunes.apple.com/vn/app/football-                                                                                                                                                                                                                                                                                                                                                                                                                                                      | From: 9/2011 To: 1/2012  |
+
+## WORK EXPERIENCE
+
+## https://itunes.apple.com/vn/app/english-idioms-for-dailyconversation/id537631719?mt=8
+
+-  I did this app for myself to sell on AppStore. Main Features: Use PhoneGap to render UI, Load content of some WebSite and display into app, Use some native functions: share to Facebook, Email or SMS.
+-  We do support iPhone and iPad.
+
+## IT SKILLS / KNOWLEDGE
+
+## KNOWLEDGE
+
+-  6+ years experienced in software development
+
+
+
+3+ years experienced in iOS application development.
+
+-  Knowledge in mobility deployment management (deploying, patching, upgrading, etc...)
+-  Experience and passionate in Apple iOS platform
+-  Ability to work independently and proactively
+-  Ability to work as part of a team, including the ability to develop new working relationships, share knowledge and work with colleagues within the team to meet service standards
+-  Able to work under high pressure and take responsibilities, smart-worker and good attitude
+-  Good command of English (speaking, reading and writing, presentation in English)
+
+| TECHNICAL SKILLS        | Years of Experience   |
+|-------------------------|-----------------------|
+| Programming Language    |                       |
+| Ruby on Rails           | 1.5                   |
+| PHP                     | 2                     |
+| Java                    | 1                     |
+| JavaScript              | 4                     |
+| Object-C                | 3                     |
+| HTML5                   | 2                     |
+| Development Platform&OS |                       |
+| PhoneGap                | 1                     |
+| iOS                     | 3                     |
+| Android                 | 1                     |
+| MACOSX                  | 4                     |
+| Software Tool           |                       |
+| Xcode                   | 3                     |
+| Pivotal Tracker         | 2                     |
+
+| Github   | 2   |
+|----------|-----|
+
+| LANGUAGE SKILLS   | Fluent   | Good   | Fair   |
+|-------------------|----------|--------|--------|
+| Vietnamese       |         |        |        |
+| English           |         |        |        |
+| Japanese          |          |        |       |

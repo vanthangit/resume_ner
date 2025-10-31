@@ -1,0 +1,84 @@
+<!-- image -->
+
+## Skills
+
+Programming: Android, Java
+
+Libraries: Google Play Services, Google Mobile Vision, ExoPlayer.
+
+Database: SQLite, ORMLite, Realm, Room.
+
+Other: Android SDK, Android NDK, Widgets.
+
+Spoken language: English, Vietnamese.
+
+## Android Projects
+
+## Popular Movies App:
+
+- ⚫ Displays a list of movies retrieved from the API.
+- ⚫ Clicking on a movie displays details from that movie including trailers and reviews.
+- ⚫ Allows user to save their favorite movies into local database.
+- ⚫ Contains a menu that allows user to switch between popular, most rated and favorite movies.
+- ⚫ App  built  with  RecyclerViews,  Loaders,  Content  Provider,  SQLite  Database,  Net  Working, Intents and Menu.
+
+## News App:
+
+- ⚫ Display a list of news' articles retrieved from the API.
+- ⚫ Allows user to choose their preferred topics through different preferences.
+- ⚫ Clicking on the news navigate the user to the website for the full news.
+- ⚫ App built with ListView, Preferences, Shared Preferences, Net Working, Intents and
+
+## Fragments.
+
+## Tour Guide App:
+
+- ⚫ Displays swiping screens that contain relating information about destination: Hotels, Places Restaurants and Useful Phrases.
+- ⚫ Includes media playback for common phrases.
+- ⚫ App built with ListViews, ViewPager, TabLayout, Audios and Fragments.
+
+Di An, Binh Duong | 01/2017
+
+Thu Duc, Ho Chi Minh | 09/2017 -04/2018
+
+## Experience
+
+## Android Developer -Developer
+
+- ⚫ Working with open sources and freelance projects.
+- ⚫ 1,5 -2 years of experience.
+
+## University of Economics and Law s -Student
+
+- ⚫ GPA: 8.2.
+- ⚫ Took part in a scientific research about the use of product display in a supermarket.
+
+03/2018 -06/2018 In progress In progress
+
+77 PTE
+
+## Education
+
+Udacity Android Basics Nanodegree Udacity Android Developer Nanodegree Learn with specialists from FPT Software English proficiency
+
+## Khai Kim Hoang Android Developer
+
+Khai Kim Hoang 86 An Binh, An Binh ward, Di An, Binh Duong.
+
+Date of birth: 27/06/1997
+
+Address:
+
+Gender:
+
+Male
+
+Phone:
+
+096 412 4873
+
+Email:
+
+hoangkimkhai276@gmail.com www.linkedin.com/in/hkhai
+
+Other:

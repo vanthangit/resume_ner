@@ -1,0 +1,283 @@
+## Vinh Bui Quang
+
+Full-stack Javascript Developer
+
+## // OBJECTIVE
+
+To work as a senior Full-stack javascript developer, developing sites and applications using any combination of the following web technologies: HTML5, CSS3, jQuery, JavaScript, NodeJS, ReactJS, AngularJS, Cordova, Ionic to enjoy my work with an organization that prides itself on using forward-thinking practices.
+
+## // WORK EXPERIENCE
+
+## Sutrix Solutions JSC
+
+Jan 2015 - Present
+
+## Dar Studio
+
+Feb 2016 - Present
+
+## LacViet Computing Corp
+
+Oct 2013 - Dec 2014
+
+## // PROJECTS
+
+## Sutrix Solutions Projects (Feb 2015 - Present)
+
+Customer
+
+Description
+
+## Team size
+
+My position
+
+My responsibilities
+
+Technologies used
+
+## SUTRIX SOLUTIONS
+
+- Responsive Website
+
+- Web Application
+
+- Hybrid Application
+
+1 - 6
+
+## Developer and Team leader
+
+- Analysis
+- Development
+- Review code
+- Optimize code
+- Bug Fixing
+
+NodeJS, Bootstrap, HTML5, CSS3, jQuery, JavaScript, ES6, ReactJS, AngularJS, Cordova, Ionic, Grunt, Gulp, Jade, Less, Sass, MongoDB, MySQL
+
+## Full-stack Developer and Team Leader
+
+- Develop web application, hybrid application based on NodeJS, HTML, CSS, JavaScript, Bootstrap, jQuery, ReactJS, AngularJS, Cordova, Ionic.
+- Work as a developer and team leader in many projects.
+- Communicate directly to client for requirements.
+- Create and execute project work plans and revises as appropriate to meet changing needs and requirements.
+
+## Full-stack Developer
+
+- Develop an online web game based on NodeJS, SocketIO.
+- Do coding with Bootstrap, Jade, Less, Sass, Grunt, Gulp, JavasSript, jQuery.
+
+## Full-stack Developer
+
+- Develop websites based on MS SharePoint.
+- Do coding with .NET, Silverlight, HTML, CSS, jQuery, PhoneGap, MS SQL.
+
+Feb 19, 1990 Male +84 979 315 207 vinhbq1902@gmail.com HCMC, Vietnam dar-studio.com
+
+## DarStudio (Feb 2016 - Present)
+
+## Customer
+
+## Description
+
+Team size
+
+My position
+
+My responsibilities
+
+Technologies used
+
+## BioPortal (2013 - 2014)
+
+Customer
+
+## Description
+
+## Team size
+
+## My position
+
+My responsibilities
+
+Technologies used
+
+## DAR-STUDIO
+
+- It is a real-time online game playing on web browsers.
+
+2
+
+## Developer
+
+- Analysis and design
+- Development
+- Review code
+- Optimize code
+- Bug Fixing
+
+NodeJS, Socket.IO, Gulp, Jade, Less, JavaScript, jQuery, Phaser
+
+## LACVIET COMPUTING CORP
+
+- BIO Portal is a production of LacViet Computing Corp. - BIO Portal manages the total official dispatch system, the outgoing and upcoming document of a company or organization. - BIO Portal also has the management ability and tracks the rotation of each document from entering a upcoming document through the browser steps, processing to end.
+
+5
+
+## Developer
+
+- Analysis and design
+- Development
+- Optimize code
+- Bug Fixing
+
+.NET, MS SharePoint, MS SQL, Silverlight, HTML, CSS, JavaScript, jQuery
+
+## LacViet DMS (Document Managament System) (2013 - 2014)
+
+Customer
+
+## Description
+
+## Team size
+
+My position
+
+My responsibilities
+
+## LACVIET COMPUTING CORP
+
+- With software Lac Viet DMS, the management, store, search and processing profile will become simple, scientific, professional and easy searching , processing, saving time for storage employees. Not only readers may ask to borrow the online profile, document but also may read the full-text content has been digitized.
+
+- Lac Viet DMS complies fully the management process and the utilization of storage document by Archive Bureau issued. The solution consists of many modules that correspond to the main works of an storage agency includes collecting, preserving, revising, extraction, search, statistical reports
+
+5
+
+## Developer
+
+- Analysis and design
+- Development
+- Optimize code
+
+Technologies used
+
+## Job Safety Analysis Management System (JSA) (2013 - 2014)
+
+Customer
+
+## Description
+
+## Team size
+
+My position
+
+My responsibilities
+
+Technologies used
+
+## LACVIET COMPUTING CORP
+
+- A job safety analysis (JSA) is a safe management technique focuses on and uses to identify and control the dangers that relate with a job or duty. JSAs identify the existing dangers between the worker and their work environment (tools, tasks, locations, etc.).
+
+- The purpose of JSA is to reduce the risk of each step in the work at minimum level to protect safety. JSA is a software to help manage JSAs, serve the search, updating, translating JSAs as well as the implementing process for a possible highest safety compliance job as gas oil workers on drilling rigs.
+
+5
+
+## Developer
+
+- Analysis and design
+- Development
+- Optimize code
+- Bug Fixing
+
+.NET, MS SharePoint, MS SQL, HTML, CSS, JavaScript, jQuery
+
+## Management software for Civil Engineering Construction Corporation No. 4 (2013 - 2014)
+
+Customer
+
+## Description
+
+## Team size
+
+## My position
+
+My responsibilities
+
+Technologies used
+
+## // SKILLS
+
+## Team work
+
+## Logical thinking and creative
+
+## LACVIET COMPUTING CORP
+
+- A job safety analysis (JSA) is a safe management technique focuses on and uses to identify and control the dangers that relate with a job or duty. JSAs identify the existing dangers between the worker and their work environment (tools, tasks, locations, etc.).
+
+- The purpose of JSA is to reduce the risk of each step in the work at minimum level to protect safety. JSA is a software to help manage JSAs, serve the search, updating, translating JSAs as well as the implementing process for a possible highest safety compliance job as gas oil workers on drilling rigs.
+
+5
+
+## Developer
+
+- Analysis and design
+- Development
+- Optimize code
+- Bug Fixing
+
+.NET, MS SharePoint, MS SQL, HTML, CSS, JavaScript, jQuery
+
+Oct 2009 - May 2013 Infoworldschool Major: Software Engineer // EDUCATION
+
+## MS SQL
+
+## NodeJS
+
+## Cordova
+
+## HTML
+
+CSS
+
+## JavaScript
+
+## jQuery
+
+## AngularJS
+
+## ReactJS
+
+## Photoshop
+
+## // INTERESTS
+
+- Playing football
+- Listening Music
+- Reading programming book
+
+## // CERTIFICATIONS
+
+- Microsoft Certification 70-511: Windows Applications Development with Microsoft .NET Framework 4.
+
+May 2013
+
+- Microsoft Certification 70-513: Windows Communication Foundation Development with Microsoft .NET Framework 4.
+
+## May 2013
+
+- Microsoft Certification 70-516: Accessing Data with Microsoft .NET Framework 4 May 2013
+
+- Microsoft Certification 70-518: Designing and Developing Windows Applications Using Microsoft .NET Framework 4.
+
+May 2013
+
+- Microsoft Certification 70-668: Microsoft SharePoint 2010, Administrator.
+
+2014
+
+## // REFERENCES
+
+Available on request.

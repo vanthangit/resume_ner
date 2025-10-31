@@ -1,0 +1,125 @@
+## Nguyen THI THU THUY
+
+iOS Developer
+
+## // OBJECTIVE
+
+I had a opportunity to work with iOS. Absolutely it is so attracted to me. So I want to seeking position of a iOS Developer where I would be able to put to use the knowledge an experience gained in the software development cycle to learning programming skills more
+
+## // WORK EXPERIENCE
+
+## Blogic Systems
+
+2014 - Present
+
+## // PROJECTS
+
+## QOrder (2014 - 2015)
+
+Customer
+
+Restaurant, resort,...
+
+Description
+
+QOrder is a tableside ordering POS application for all type of restaurants - Full or Quick Service.It helps to enhance customer service, increase your revenue and cut costs
+
+Team size
+
+2
+
+My position
+
+Developer
+
+My responsibilities
+
+- Analysis and design
+
+- Development
+
+- Bug Fixing
+
+Technologies used
+
+- iOS 6,7
+
+- Xcode 5,6
+
+## BLogic QOrder and BLogic POS (2014 - 2016)
+
+Customer
+
+Restaurant, resort,...
+
+Description
+
+These are extension from QOrder, support  user get store report
+
+Team size
+
+2
+
+My position
+
+Developer
+
+My responsibilities
+
+- Analysis and design
+
+- Development
+
+- Bug Fixing
+
+Technologies used
+
+- iOS 7, 8, 9, 10
+
+- Xcode 6, 7, 8
+
+## BLogic POS+ and BLogic CRM (2014 - 2016)
+
+## iOS Developer
+
+- Develop the Mobile Application based on Server Connector
+- Create design and technical solutions.
+- Communicate to client for requirements.
+- Create and execute project work plans and revises as appropriate to meet changing needs and requirements.
+
+Female 0902560600 amynguyen0505@gmail.com Ho Chi Minh, Vietnam Salary range: $800
+
+| Customer            | Restaurant, resort, spa, nail                                                                                                                                                                                                                                                                                                           |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Description         | - BLogic POS+ is extension from BLogic POS, it supports user manage employee and customer - BLogic CRM Dashboard for iPad - Blogic Systems Customer Relation Management, to allow user to connect to the CRM server to perform management. It is a tool and just like a dashboard to use to configure and manage anything relate to CRM |
+| Team size           | 2                                                                                                                                                                                                                                                                                                                                       |
+| My position         | Developer                                                                                                                                                                                                                                                                                                                               |
+| My responsibilities | - Analysis and design - Development - Bug Fixing                                                                                                                                                                                                                                                                                        |
+| Technologies used   | - iOS 7, 8, 9 - Xcode 6, 7                                                                                                                                                                                                                                                                                                              |
+
+## TeaZone and BLogic Report (2015 - 2016)
+
+| Customer            | Tea and coffee shop, customers are using Blogic Systems 's service                                                                                    |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Description         | - Tea Zone is a application which user can order tickets to service 's TeaZone store - BLogic Report is a simply app to help user review store report |
+| Team size           | 2                                                                                                                                                     |
+| My position         | Developer                                                                                                                                             |
+| My responsibilities | - Analysis and design - Development - Bug Fixing                                                                                                      |
+| Technologies used   | - iOS 9, 10 - Xcode 7, 8                                                                                                                              |
+
+## // SKILLS
+
+- Knowledge of OOP
+- Knowledge of Swift and Objective-C
+- Experience deploying apps to App Store
+- Be able to read and study English documents
+- Good sense of teamwork and high responsibility
+- Good communication skills
+
+2008 - 2012
+
+HULIT University
+
+Major: Software Engineer
+
+// EDUCATION

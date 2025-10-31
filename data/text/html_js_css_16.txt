@@ -1,0 +1,194 @@
+## Career Objective
+
+- Working in a professional, young and dynamic environment where I'll have the opportunities to develop my skills, learn new technologies and contribute as much value as I can.
+- To be a good member and working with company for a long time.
+
+<!-- image -->
+
+Education
+
+## UNIVERSITY OF SCIENCE
+
+Major : Technical Physics and Computer Science
+
+## ACTIVITIES
+
+10/2016 - 2020
+
+2019 - PRESENT
+
++ My Project: https://github.com/phamchanh6599
++ Practicing Algorithm: https://www.codewars.com/users/phamchanh6599
+
+<!-- image -->
+
+## LAIHO &amp; CAO SOFTWARE COMPANY
+
+Position: Employee (Full Stack Developer).
+
+- Working based on instruction of Team Leader : .
++ Working with Vue Js, React Js framework to build single page web and using PHP to write API.
+
+10/2018 - 10/2019
+
++ Working with Angular framework to build single page web apps that communicate with backend via Restful API.
++ Improving company's production using Angular 7 and using Git to communicate with other developers.
++ Developing and fix the application's defect base on requirements
++ Improving performance of website using lazyloading.
++ Developing small modules of the system
+
+## NEW OCEAN INFORMATION SYSTEM COMPANY LIMITED
+
+Position: Freelancer (Front End Developer).
+
+- Working based on instruction of Team Leader : .
++ Working with Vue Js to build CRUD application from beginning to end and using GraphQL to connect with Backend.
+
+## 10/2019 - 01/2020
+
++ Working with React js to build client side from beginning to end and using Node js to create Rest API in server side.
++ Researching D3 Js to draw charts instead of Power Bi.
++ Supporting other members using Blazor to build interactive client-side web UI.
++ Improving internal application using React js.
++ Working within the Scrum/Agile development methodologies to find the best way to make application better.
+
+## COVERGO
+
+Position: Employee (Front End Developer).
+
+- Working with CoverGo team in HongKong : .
++ Working with Vue Js to build CRUD admin application from beginning to end and using GraphQL to connect with Backend.
+
+02/2020 - PRESENT
+
++ Working with Vue js to build client side in server-side render from beginning to end depend on current platform of company.
++ Implementing a little bit UI/UX based on requirement of client on Figma.
+
+## Phạm Nguyễn Phúc Chánh Phạm Nguyễn Phúc Chánh
+
+FULL STACK DEVELOPER
+
+<!-- image -->
+
+<!-- image -->
+
+05/03/1998
+
+<!-- image -->
+
+<!-- image -->
+
+Male
+
+0395051671
+
+<!-- image -->
+
+-  phamchanh6599@gmail.c om
+-  Protected Data
+-  https://www.linkedin.co m/in/ch%C3%A1nh-ph%E 1%BA%A1m-958116152/
+
+<!-- image -->
+
+<!-- image -->
+
+SKILLS
+
+HTML - CSS/SASS
+
+JAVASCRIPT
+
+VUE JS
+
+REACT JS / REDUX
+
+GRAPHQL
+
+ANGULAR
+
+NODE JS
+
+MY SQL
+
+TAILWIND
+
+JEST
+
+ENGLISH
+
++ Working within the Scrum/Agile development methodologies to find the best way to make application better.
++ "Programing Web  HTML5, CSS3, JQuery and Bootstrap" by University of Science.
+0. WEB APP: https://www.luminpdf.com/
++ Position: Front end developer.
++ Team Size: 7
++ Project Description: A web app allow you to brings your documents to life with smart editing and markup tools to help you easily annotate PDF documents and images. Add text, images, comments, shapes and signatures. All from your browser in realtime.
++ Responsibilities:
++ Technologies: React Js - Redux - Webpack - Docker - Nodejs - MongoDB Redis - Graphql.
+- --&gt; Communicating with designer to implement UX/UI.
+- --&gt; Improving some features which dont work correctly.
+- --&gt; Developing and fix the application's defect base on requirements.
+- --&gt; Refactoring some modules better.
+1. ECOMMERCE WEBSITE: https://y5buddy.sg/
++ Position : Front end developer.
++ Team Size : 6
++ Project Description : y5buddy is a mobile wi-fi rental service for corporates and individual travellers since 2013.
++ Responsibilities:
++ Technologies: Angular 4 - Node Js - MongoDB.
+- --&gt; Using Html, Sass, Bootstrap to create pricing view, corporate, how to use, create account, sign in.
+- --&gt;  Using git communicate with other front end developers.
+- --&gt; Using Typescript to make some animations and features in UI.
+- --&gt; Using photoshop to cut images, measure unit and  convert PDF file to HTML file.
+2. WEB APP: https://nettivaraus6.ajas.fi/en/77e047df962b?view=compact.
++ Position : Front end developer.
++ Team Size : 5
++ Project Description: An onlne booking system for many industries.
++ Responsibilities:
++ Technologies : Angular 7 - PHP - MySQL - Docker - Laravel.
+- --&gt; Using Html, Css, to make User Interface  of Small view, Legacy view and Spatial view.
+- --&gt; Using moment library to analyse time and show to UI
+- --&gt; Using Typescript to connect with Backend via Restfull API
+- --&gt; Using canvas to draw table for booking ( Spatial view)
+- --&gt; Deploy production to server using WinSCP in Window 10
+3. WEB PAGE: http://dgitool.com/
++ Position : Fullstack developer.
++ Team Size : 2
++ Project Description: This tool is designed for Dividend Growth Investors to analyze performance of stocks and portfolios using compounding interest and reinvestment of dividends.
++ Technologies: Vue Js - PHP - Slim - MySQL.
+
+<!-- image -->
+
+<!-- image -->
+
+2018
+
+## + Responsibilities:
+
+- --&gt; Using Javascript and Axios Library to comunicate with BackEnd via Restful API
+- --&gt; Using Html, Css, Bootstrap to make UI
+- --&gt; Using SVG to make and show dynamic chart based on data from user
+- --&gt; Doing Unit test
+- --&gt; Deploy production to server  using FileZilla in Linux
+- --&gt; Using PDO to connect database ( MySQL)
+- --&gt; Using FPDF library to make PDF
+- --&gt; Making Read and Write methods
+- --&gt; Fetching data from another website using IEX API based on data of user
+4. WEB SITE: https://muangthai-uat.quote.hk/
++ Position: Front End developer.
++ Team Size : 5
++ Project Description: A website to show some products about insurance.
++ Responsibilities:
++ Technologies: Vue js - .Net - Tailwind - GraphQL
+- --&gt; Disscusing with team Leader to create UI / UX
+- --&gt; Connect with Back end via GraphQL
+- --&gt; Using Vue js to create UI and handle logic for each page
+
+## 5.WEB APP : https://tahoe-uat.quote.hk/en/e-protector-term/
+
++ Position : Front developer
++ Team Size : 4
++ Project Description: A insurance web allow user to select and buy product for anyone.
++ Responsibilities:
++ Technologies : Vue js - .Net - Tailwind - GraphQL
+- --&gt; Communicating with customers and teammates to clarify requirement
+- --&gt; Design UX/UI and implement the solution based on the requirements from stakeholders2.
+- --&gt; Building client side using Vue js from beginning to end.

@@ -1,0 +1,105 @@
+## CURRICULUM VITAE
+
+## General Information
+
+<!-- image -->
+
+## Objective
+
+- Name
+
+: NGUYEN KHAC CHAN
+
+- Sex
+
+: Male
+
+- ▪
+
+Date of birth  : February 18, 1993
+
+- Address : 69/4/30 Duong Truc St. Binh Thanh Dist. Ho Chi Minh City
+
+- Phone
+
+: 0167 711 0700
+
+- Email
+
+: khacchan@gmail.com
+
+- § Contribute to the success of the company and the project .
+- § Become a model employee.
+- § Learn and capture work from friends and colleagues.
+- § Develop skills with the development of the project
+
+## Education 2011 - 2016
+
+University of Information Technology (UIT)
+
+## Experience in:
+
++ Swift, Objective-C
+
++ Design Patterns
+
++ CustomView
+
++ Socials Framework (Facebook, Twitter, G+, …)
+
++ Task, Thread
+
++ Data offline
+
++ Animation
+
++ Git
+
+## Other Technologies:
+
++ Java
++ Python
++ PHP
+
+Interests
+
+Mobile technology, football, movies, travelling, guitar..
+
+## Skills
+
+## Experience
+
+Feb/2015 - Now
+
+Working at Vinova, Pte. Ltd
+
+Position: iOS Developer
+
+iOS Project Attented
+
+| Project Name                                                               | Project Description Technologies                      | Team size      |
+|----------------------------------------------------------------------------|-------------------------------------------------------|----------------|
+| Application to search jobs, post resume and apply jobs online in Australia | Swift, Socials framework, Charts, Realm, Notification | Skills Tracker |
+| Square An application to technological processes treatment in a            | Swift, Animation, Realm, Google Map,                  | My Medi 4      |
+| Application to import duty taxes                                           | Objective-C, Core Data                                | iFast 2        |
+
+- Good communication
+- Can work under pressure to fulfill the task
+- Can use office software ( word, photoshop…)
+- Self learning
+
+| Project Name                                                                                                                                                          | Project Description                   |   Technologies | Team size   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|----------------|-------------|
+| Quiz game https://itunes.apple.com/us/app/ sg-quiz/id998817193                                                                                                        | Objective-C, Animation effect, Socket |              3 | SQQuiz      |
+| SGStock Application checking latest stock prices of the companies listed on the Singapore Stock Exchange (SGX) https://itunes.apple.com/us/app/ sg-stocks/id981372388 | Swift                                 |              3 |             |
+
+## Jun/2014 - Sep/2014      Working at Sai Gon Mobile Lab
+
+Position: Android Developer
+
+Android Project Attented
+
+| Project Name                                                                                                                                               | Project Description          |   Technologies | Team Size   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|----------------|-------------|
+| "Gau Tui Dau" is a dating app that helps single people in Vienam to seek their soul-mate https://play.google.com/store/apps/ details?id=vn.magik.gautuidau | Java, Socials SDK            |              2 | Gau Tui Dau |
+| Application to find accommodation https://play.google.com/store/apps/ details?id=vn.magik.roomrent                                                         | Java, Google Map, Crawl Data |              4 | Nha Tro Tot |

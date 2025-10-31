@@ -1,0 +1,97 @@
+<!-- image -->
+
+<!-- image -->
+
+## ABOUT
+
+Name:Son Nguyen Van
+
+Age:22
+
+Major:Networking and Telemunication
+
+Shool:SenioratUniversity of InfomationTechnology
+
+Address:ZoneBDormVietnamNational University
+
+Phonenumber:0986479845
+
+Mailaddress:nvs2394@gmail.com
+
+## EXPERIENCE
+
+## WORKING
+
+<!-- image -->
+
+## RASIA LTD...(December2015-October2016)
+
+BuildAPI(Backend)withnodeJS,MySQL,expressFramework
+
+Buildfront-end forwebsitewithAngularJs,bootstrap..
+
+Deploy app in to openshift.
+
+Devopswith docker,cluster database
+
+Deployappwithheroku cloudVPS
+
+Automation testing API
+
+## HORICAL LTD...(July2015-October2015)
+
+Build project with nodejs and mongodb. Deploy nodejs inDigital Ocean(VPS) LearnNodeJS framework(express,rail) UsingKeytone CMS Agile Project Management
+
+## TAKING PROJECT AT UNIVERSITY
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## NETWORK
+
+Knowledge HTTPProtocol Networkmodel SecuritywithMode-security Load balancing with HAproxy
+
+## ANDROID&amp;.NET
+
+Experience about1.5yearswithWindowphoneapplication(NSonUITon win store) and 2 years using C#for project(Hap am chuan"application on Windows 8.1),Networkbasicprograming.
+
+## KNOWLEDGEINUSINGOOP
+
+## Son Nguyen Van
+
+"Never give up.."
+
+<!-- image -->
+
+## SKILL
+
+## Teamwork
+
+Responsibility
+
+Assignment to other dutiesin group
+
+Use to-do-list to manage working progress of all mem- bers
+
+Discuss to find outidea
+
+Trello,Slackforteamwork
+
+## Using GitHub
+
+Manage codeby Github Take advantageofSourceTreeforusingGithub
+
+## LANGUAGES
+
+English Japanese
+
+## INTEREST
+
+Reading book Playing guitar Playing andwatching Football Traveling Volunteer Open source and using Linux
+
+## KNOWLEDGE
+
+<!-- image -->

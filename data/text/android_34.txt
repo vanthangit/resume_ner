@@ -1,0 +1,183 @@
+<!-- image -->
+
+## EDUCATION
+
+## Sep 2008 HCM UNIVERSITY OF TECHONOLOGY +
+
+##  Apr 2013
+
+## HCM University of Techonology
+
+Learning about all basic knowledge of technology information .
+
+Improve my strengths and overcome weakness .
+
+Working independently and manage my time be effective .
+
+Excellent in researching new technology , Seeing the cause and handle the problem .
+
+Good skills in teamwork and social activies.
+
+## WORK EXPERIENCE : ( 4.5 YEARS ANDROID DEVELOPER)
+
+## Otc 2011 SILVER ARROW STUDIO +
+
+##  Jan 2013
+
+Android Developer
+
+Project :  Tetris , Ping Pong , Caro , Guard Town , .v.v.
+
+Size of Teams : 2
+
+Responsibility :Post Game from Windows to Android
+
+## Apr 2013 INDIVIDUAL SYSTEMS +
+
+##  Aug 2013
+
+## Java Developer
+
+Project : Web Manage Employers (Insurance , Salary , Tax , ...) for Japanese Company
+
+Size of Team : 10
+
+Responsibility :Front-End developer . Create Interface for Web Client
+
+## Aug 2013 INDIVIDUAL SYSTEMS +
+
+##  Nov 2013
+
+## Java Developer
+
+Project : Maintenance system sales management .
+
+Size of Team : 4
+
+Responsibility :Implement requirements .Find  the cause of issues and solve problems from reports of customer.
+
+## Nov 2013  Mar 2014
+
+## INDIVIDUAL SYSTEMS +
+
+## Java Developer
+
+Project : Web Manage Employees (Insurance , Salary , Tax , v.v)  for Japanese Company
+
+Size of Team : 30
+
+Responsibility :Front-End developer . Create Interface for Web Client
+
+## Mar 2014  May 2014
+
+## INDIVIDUAL SYSTEMS
+
+## Android Developer
+
+Project : WoWoo  Weather  : implement App share Information use social networks API ( FaceBook , Twitter , .v.v)
+
+Size of Team Android : 5
+
+Responsibility :Implement Application,  break task , assign task  and  report
+
+## NGUYEN NHAT TUAN
+
+Current Position :  Senior Android Developer .
+
+2 Nguyen Hien Le , HCM City nguyennhattuan0504@gmail.com 0989427570
+
+## OBJECTIVE
+
+Become the best excellent Android Developer .
+
+## SKILLS
+
+Team-work
+
+English
+
+Japanese
+
+Android
+
+Java
+
+C/C++
+
+## INTERESTS
+
+- Martial arts - TaiChi
+- Reading Book
+- Travelling
+
+to team leader.
+
+## Aug 2014 TMA SOLUTION
+
+ October 2014
+
+October 2014  October 2015
+
+## Android Developer
+
+Project : Epub3 : Implement app reading e-Books for company
+
+Size of Team Android : 1
+
+Responsibility :Implement application , make demo app to report to my manager .
+
+## TMA SOLUTION
+
+## Android Developer
+
+Project : Sharp e-Book : Reading and sale e-Books online
+
+Size of Team : 40
+
+Size of Team Android  : 8
+
+Responsibility : estimate Requirements , breaks Task , implements features about Connect Server ,  WebView  API , Android Native to use library C/C++ , interface for Reading Book .
+
+## May 2015 TMA SOLUTION
+
+##  Jul 2015
+
+October 2015  today
+
+## ACTIVITIES
+
+## Apr 2013 LEARNING JAPANESE
+
+##  Dec 2015
+
+## N3 JLPT
+
+School : in Individual System Company Got certification N4  JLPT in Exam on July 2014
+
+## May 2014 DEPLOYED ANDROID APPLICATION
+
+ today https://play.google.com/store/apps/details?id=jp.co.sharp.exapps&amp;hl=en https://play.google.com/store/apps/details?id=com.ucbook.bookshelf https://play.google.com/store/apps/details?id=tatami.dict.jap
+
+.....
+
+## Android Developer
+
+Project : EJB - Japanese Ebook : reading e-Books in mode Offline Size of Team : 10
+
+Size of Team Android : 3
+
+Responsibility : Implement wrapper with Native ( use NDK ) . implement
+
+interface for Reading Book and supports Tool for user .
+
+## TMA SOLUTION
+
+## Senior Android Developer
+
+Project : Sharp e-Book  : Reading and sales e-Books online
+
+Size of Team : 20
+
+Team Android : 4
+
+Responsibility : Implement  requirements from customer and fix bug which found in old version

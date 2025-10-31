@@ -1,0 +1,116 @@
+<!-- image -->
+
+## ABOUT ME
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+May, 1988. Married.
+
+0933 706 568
+
+giangnm@live.com
+
+Tan Phu, HCMC, VN
+
+Z
+
+开
+
+## SKILLS
+
+- NodeJS   • Angular 1
+- Redis · ElasticSearch
+- Postgres (Sequelize)
+- HTML/CSS/jQuery
+- Ubuntu Server
+- HA Proxy
+- PM2, Ngnix
+
+## PREVIOUS  SKILLS
+
+-  C#, ASP.Net, MS SQL
+-  Java, MySQL
+-  RoR, MongoDB
+-  Win Server   • Varnish
+
+## LANGUAGES
+
+- Vietnamese   • English
+
+## LOVES TO
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- Investigating solutions
+- Coding &amp; Operating
+- Traveling
+
+## RESUME
+
+I have about 10 years of experience in web developement software. My passions are in e-commercial, payment services, api integration. My strengths are have good vision of system, responsibility, quickly in learning.
+
+## 3 RECENTLY JOBS  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Datdi.com
+
+Family's project Jun 2016 - Now
+
+## Chudu24.com
+
+District 1, HCM May 2015 - Jun 2016
+
+## Tripolis Vietnam
+
+District 2, HCM
+
+May 2014 - May 2015
+
+## FULLSTACK &amp; OPERATION
+
+Online air ticket website by NodeJS, Angular 1, running on Cloud Linux servers with HA Proxy, Redis, ElasticSearch, etc...
+
+## HEAD OF TECHNICAL DEPARTMENT
+
+Manage dev team (NodeJS) and network team to develop, operating and maintain a hotel reservation system - chudu24.com, as well as technical stuffs at the office.
+
+## DEVELOPER &amp; SCRUM MASTER
+
+Develop world wide project by RoR and Angular 1 based on business concepts from existing system. Takes Scrum Master role in a 5 members scrum team.
+
+Previous jobs:
+
+NhacCuaTui.com, Simpay (Qiwi), Gameloft, NIIT.
+
+EDUCATION   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+NIIT
+
+2006 - 2009
+
+## SOFTWARE ENGINEERING
+
+DNIIT certificate with Excellent grade.
+
+REFERENCE  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Khoa Dinh
+
+0915 841 679
+
+COLLEAGUE AT CHUDU24
+
+khoa1987@gmail.com
+
+## GIANG NGUYEN
+
+FullStack Developer &amp; Leader

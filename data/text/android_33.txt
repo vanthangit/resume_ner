@@ -1,0 +1,119 @@
+<!-- image -->
+
+## NGUYEN NGOC HOANG
+
+MobileDeveloper
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+08/10/1991
+
+Male
+
+(+84) 0983.688.507
+
+hoanghcmus@gmail.com
+
+1491 Le Van Luong street, Nha Be district, Ho Chi Minh city www.hoangvnit.com
+
+## SUMMARY
+
+Software Engineer with 3+ years of coding Mobile (Android + iOS) using languages  Java,  Android,  Objective-C  and  Swift.  1  year  of  development Website using Java and ASP.NET. Good at team work, coding convention, Design  Patterns  and  Version  Control  Systems  (SVN,  GIT).  Have  good English  communication  skill,  passionate  and  look  forward  to  challenging myself.
+
+## WORK HISTOTY
+
+## AXON ACTIVE VIETNAM
+
+Mobile Developer (Android + iOS)
+
+## BRAVESOFT  VIETNAM
+
+Android Developer
+
+ECS SOFTWARE
+
+Web Developer (Java + ASP.NET)
+
+## TECHNIAL
+
+| Mobile                                           | Language                               | IDE                                                | DB                                    | Front-end                      |
+|--------------------------------------------------|----------------------------------------|----------------------------------------------------|---------------------------------------|--------------------------------|
+| - Android - iOS - Push - REST API - Multi-thread | - Java - Android - Objective-C - Swift | - Android Studio - Xcode - Eclipse - Visual Studio | - SQLite - Realm - MySQL - SQL Server | - HTML - CSS - Javascript -RWD |
+
+| Operate System          | Version Control   | Tracking Tool             | Design Tool        | Others                                                     |
+|-------------------------|-------------------|---------------------------|--------------------|------------------------------------------------------------|
+| - Mac - Linux - Windows | - GIT - SVN       | - Redmine - Baklog - JIRA | - Photoshop - GIMP | - Jenkins, Sonar - OOP, MVP - Parse, Firebase - Raspery Pi |
+
+## EDUCATION
+
+-  BSc, Information Technology, University Of Phan Thiet.
+
+## ACHIVEMENT
+
+-  3 th  Prize of Web Design Contest hold by University of Phan Thiet
+-  Graduated  as veledictorian of FIT - UPT (with GPA: 3.41/4.0).
+
+MAR 2016 - TODAY
+
+JUN 2014 - MAR 2016
+
+JAN 2013 - FEB 2014
+
+## PROJECT DEVELOPMENT
+
+## MOBILE PROJECTS:
+
+| Description                                                                                                                               | Responsibility                                                                                                                                                                                                     | Technology                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+|  Development applications for Japan, France, and Switzerland markets.  Development application about social, entertainment and finance. |  Development and maintenance the applications.  Development application using Agile/Scrum process, contribute the ideas to develop and make the products better.  Learning leadership to become a Scrum Master. |  Java  Android  Objective-C  Swift  Reactive programing  Jenkins  Sonar |
+
+## FINTECH APP - Open bank account.
+
++ iOS: https://itunes.apple.com/ch/app/regiostart/id1252494937
++ Android: https://play.google.com/store/apps/details?id=ch.regiobank.onboarding
+
+IVY APP -B ussiness P rocess M anagement application.
+
++ iOS:
+
+https://itunes.apple.com/us/app/axon.ivy/id1086613359
+
+KROWDIS -Creating the contests for sharing posts for advertise purpose.
+
+Android: https://play.google.com/store/apps/details?id=com.krowdis.app
+
+POSTCARD - Creating greeting card for happy new year.
+
+Android:
+
+https://play.google.com/store/apps/details?id=jp.co.fudemame.fudeandroid
+
+## PAPAMAMA -
+
+Android:
+
+https://play.google.com/store/apps/details?id=com.seiyu.ikumendo
+
+PACHIROBO -Statistics, analysis information about hall, game machine and users in Japan.
+
+Android: https://play.google.com/store/apps/details?id=jp.co.bravesoft.pachiroboStore
+
+## WEBSITE PROJECTS:
+
+| Description                                                                                | Responsibility                                                                                               | Technology                                                                                                    |
+|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+|  Development website system for resorts, hotels, restaurants, hospital, cooperative, etc. |  Ownership project, fullstack development.  Build a multi language website.  Integrate Google map on web. |  ASP.NET  Entity Framework  HTML, CSS  Javascript  Jquery  RWD  Java  Struts  Hibernate  Freemakers |
+
+| Website                                                                                                                                                                                                                          | Reference                                                                                                                                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1001 Hotel Muine  Forester Spa, Restaurant and Coffee.  Red Spring Muine Restaurantss.  Nhu Bao Restaurant.  Tomato Restaurant.  Chau Hai Thinh Dragon Fruit.  Tan Hai 27/7 Cooperative.  South of Binh Thuan Hospital. |  http://1001hotel.com.vn  http://foresterspa.com  http://suoihongmuine.com  http://nhahangbambi.com  http://nhahangtomato.com  http://chauhaithinh.com  http://www.htx27-7tanhai.com  http://www.benhviennambinhthuan.vn |

@@ -1,0 +1,87 @@
+<!-- image -->
+
+## CURRICULUM VITAE
+
+## NGUYỄN DUY HẢO
+
+## PERSONAL  INFORMATION
+
+## POSITION APPLIED
+
+| Date of birth:December 1 st ,1991 Place of birth: NinhBinh Nationality: Vietnam Gender: Male Marital status: Single   | Mobile: 093.4321.072 - 0964.298.912 Email: nguyenduyhao1111@gmail.com Address: 39/45/8, Street No.10, Quarter 3, Linh Xuan Ward, Thu Duc District, Ho Chi Minh City   |
+|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Junior Ruby on Rails Developer
+
+## JOB OBJECTIVE
+
+To be an active employee in your company and to express and develop my skills for the mutual development of company and myself. Up-to-date on IT developments.
+
+## EDUCATION BACKGROUND
+
+| September, 2009 - April,2014              | University of Technical Education Ho Chi Minh City. Major: Information Technology                                   |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| ADDITIONAL CERTIFICATION                  | ADDITIONAL CERTIFICATION                                                                                            |
+| Teaching                                  | Teaching Certification level 2                                                                                      |
+| SKILLS                                    | SKILLS                                                                                                              |
+| English Programming Languages &Scripting: | Ability communicationby English Ability reading comprehension material by English C/C++, Ruby,PHP, HTML, CSS, MySQL |
+| SDEs tool used                            | Cloud IDE C9                                                                                                        |
+| Tool used                                 | Teamviewer, Sublime, Notepad++…                                                                                     |
+| OS                                        | Fedora,Ubuntu                                                                                                       |
+| Others                                    | Good know OOP,MVC                                                                                                   |
+
+| HOBBIES    | HOBBIES                           |
+|------------|-----------------------------------|
+| Music      | UK/US, Vpop, rap…                 |
+| Film       | Action film, Comedy film,…        |
+| Sport Etc. | Gym Like go to traveling, picnic… |
+
+## ADVANTAGES
+
+- Good communication.
+- Good searching skills.
+- Effectiveness time management.
+- Able to work independently as well as in a team.
+- Solving problem.
+- Planning.
+- Have a high sense of responsibility.
+- Self-control.
+
+## DISADVANTAGES
+
+- Need to improve writing, listeningskill in English more.
+
+## EMPLOYMENT HISTORY
+
+-  [Full time] Automation Tester  at  FPT Software           1/2015 - 3/2016
+- Review SQL script - stored procedure.
+- Detect   bug   in   SQL   stored   procedure   and   support   stuck   data integration test.
+- [WEB] Automation Test use Ruby and Selenium
+- Embedded script SQL in Ruby
+- RnD solution auto connect to AWS  via two layer security.
+- RnD gen XML file import data
+-  [Part time ]Web Development     Freelancer  my self      4/2016 - present
+-  Development web by RoR, PHP with MySQL
+-  OpenCart and Wordpress
+-  Design HTML and CSS layout like facebook
+-  [SEO] Auto post thread have backlink and image
+-  [RoR] Use AWS S3, coffee script, NoSQL
+-  Model programing Map-Reduce with Hadoop, BigData
+
+- Language: Ruby
+
+- Framework: Rails, Bootstrap
+
+- •
+
+- Technology: Amazon Simple Storage Service (S3)
+
+- IDE : CLoud IDE C9
+
+## Project
+
+- Blog printerested
+
+| • Deploy: Heroku • Database: Active Record • Using Masonry, coffee script • Link : https://pinterested312016.herokuapp.com • Version Control System: Git - Bitbucket   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| • Using Linux : 2 year (Know commands basic in Ubuntu, Fedora) • Using Ruby : 1 year • Using Rails : 3 month • Using SQL : 3 year • Using Sublime Text, Vim: 1 year    |

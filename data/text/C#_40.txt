@@ -1,0 +1,141 @@
+Email:an.cse09@gmail.com
+
+Skype: an.cse09
+
+(+84) 0988-377-459
+
+Education
+
+45/13 Street 42, Linh Dong ward, Thu Duc district, Ho Chi Minh city. DoB: August 15, 1991
+
+glyph[diamondmath] HCMCUniversity of Technology , Ho Chi Minh City, VN (Sep 2009 -Dec 2013)
+
+Bachelor of Engineering in Computer Science and Engineering (GPA: 8.1).
+
+Advisor: Dr. Tri Dang
+
+The program is accredited by the Engineering Accreditation Commission of the American Board for Engineering and Technology (ABET).
+
+- glyph[diamondmath] Software Engineer , Softfoundry International Pte Ltd (June 2013 -Now)
+
+Worked as a back-end web developer, built some Android and iOS applications.
+
+- glyph[diamondmath] Interne , KMS Technology.
+
+(Jul -Dec 2012)
+
+Developed an automation testing tool using MVVM pattern design with WPF of .NET framework.
+
+- glyph[diamondmath] Programming Languages: PHP, Java, Python, Objective-C, C/C++, C#, WPF, HTML5, CSS, Prolog, Scala.
+- glyph[diamondmath] Framework: Yii, ElasticSearch, Docker, Android SDK, XCode SDK, ASP.NET, Rails (Ruby on Rails), jQuery, ReactJS, AWS.
+- glyph[diamondmath] Operating system: Windows, Linux, MAC, Android, iOS.
+- glyph[diamondmath] Database: MySQL, Oracle, NoSQL (MongoDB, Cassandra).
+- glyph[diamondmath] Database: GIT, SVN.
+- glyph[diamondmath] English: Proficiency in reading material and writing reports in English.
+- glyph[diamondmath] Research: Keen on research and good ability of self-study.
+- glyph[diamondmath] Teamwork:
+- Capable of teamwork and effective communication.
+- Open-mind in discussing.
+- Honest in working and in relation with others.
+
+glyph[diamondmath] Location Based Service (Softfoundry:Dec 2015 -now) The system allows users to find locations surrounded them in a specific distance. I use ElasticSearch to store location information and to search for nearest location in real time. I also help to build a hosting file server to store media file such image, video, etc. Technology: ElasticSearch, Java
+
+## glyph[diamondmath] HaloDoc
+
+(Softfoundry:June 2015 - Nov 2015)
+
+The application core functionality is to support communications between doctors and patients. Communication could be done through chatting, voice call, and video call. I help to create APIs for mobile apps, website to use and communicate each other.
+
+Technology: Yii framework
+
+## glyph[diamondmath] Multipath TCP
+
+(Softfoundry:Jan - May
+
+2015)
+
+Multi-path TCP (MPTCP) is an effort towards enabling the simultaneous use of several network interfaces by a modification of TCP that presents a regular TCP interface to applications, while in fact spreading data across several sub-flows.
+
+## Work experience
+
+## Personal Skills
+
+## Other Skills
+
+## Ongoing Projects
+
+## Finished Projects
+
+## An Nguyen
+
+Research
+
+Interests
+
+## Honors &amp; Awards
+
+## Teaching experience
+
+Activities
+
+- glyph[diamondmath]
+
+I applied this protocol on Linux server and android phone to make use of both 3G and Wi-Fi on the phone and many network interfaces on server side. This helps increase the bandwidth on both android phone and server.
+
+- glyph[diamondmath] B2B e-comerce website (Softfoundry:Apr -Dec 2014) I implemented the recommendation service using Mahout framework, which can deploy the service on Hadoop distributed network.
+
+Technology: Yii framework (web service project), Mahout framework.
+
+City wifi (Softfoundry:Aug 2013 -Mar 2014) In this project, we implement a system to manage a wireless network for a city. I use TR069 protocol to remotely control access points. Technology: Yii framework (web service project), TR-069 protocol.
+
+- glyph[diamondmath] Search and comparing engine for on-sale products (HCMUT: Feb -Dec 2013) I built a search engine from scratch. This system crawls on-sale products from on-line stores and save product information into system database. The searching products will be displayed in order of price. User can also make comparison between products if they want. Besides, recommendation service is applied to recommend products that user may like. Technology: Yii framework, bootstrap library, recommendation algorithms.
+- glyph[diamondmath]
+- Funny photo (HCMUT: Sept -Dec 2012)
+
+Funny Photo is an Android application which provides a lot of image effects and frames. User can use our application to create funny photos and share it on Facebook. Technology: Android SDK.
+
+- glyph[diamondmath] qAutomate (KMS Technology: Jul -Dec 2012)
+
+This desktop software help testers to manage test cases, test suites and auto execute these test cases. Technology: WPF framework, C#, MVVM design pattern.
+
+- glyph[diamondmath] Data Science
+- glyph[diamondmath] Networking performance
+- glyph[diamondmath] Good student title , Ho Chi Minh City University of Technology (2010 -2011) This title is for students who have GPA above 8.0 for both semesters in an academic year and good performance in social activities.
+- glyph[diamondmath]
+- Scholarship of Nam Long Group (June 2011) This scholarship is for students who have good performance in study at university and social activities.
+- glyph[diamondmath] Scholarship of VNPT group
+
+(May 2012)
+
+This scholarship is for students who have good performance in study and social activities. It aims to encourage the study among students.
+
+- glyph[diamondmath] Valedictorian of the high school graduation exam (July 2009) Highest score of the Graduation Exam in high school.
+- glyph[diamondmath] KTLT 13 : Fundamental Programming
+
+Ho Chi Minh City University of Technology, Spring 2014, Teaching Assistant
+
+- glyph[diamondmath] Volunteer for DEP (Data Entry Project) , (Jul -Dec 2012) Project was held by SIFE group of Foreign Trade University of Ho Chi Minh City. Helped unemployed women to do data entry work by teaching them the basic knowledge of com-
+
+puting: Microsoft Office Word and Excel 2007.
+
+- glyph[diamondmath] Volunteer for SSEAYP , (December 2010)
+
+Worked as a volunteer to guide the ASEAN youths in SSEAYP (Ship for South East Asian Youth Program) when they visited my university (HCMUT).
+
+- glyph[diamondmath] Volunteer for HCM City Summer Campaign , (July 2011 August 2011) In this campaign, I worked as a tutor to help children from poor families in Ho Chi Minh city. I taught Math, Physic and English.
+
+## References
+
+## glyph[diamondmath] Volunteer for University Entrance Consulting , (December 2010)
+
+Volunteered to help grade-12 students in my old high school to have more information about University of Technology.
+
+Dr. Tri Dang 268 Ly Thuong Kiet, District 10, Ho Chi Minh City
+
+Faculty of Computer Science and Engineering HCMC University of Technology Email: tri.dang@cse.hcmut.edu.vn
+
+## Dr. Oliver Wang
+
+Softfoundry International Pte Ltd 15A Le Thanh Ton, District 1, Ho Chi Minh city. Email: oliver@softfoundry.com
+
+MEng. Trang Bui KMS Technology 191B Hoang Van Thu Street. Email: trangbui@kms-technology.com

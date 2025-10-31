@@ -1,0 +1,172 @@
+## Võ Thanh Hoàng Trung
+
+
+
+Male   ▪ Date of birth : 16 April 1988
+
+- Place of birth : Binh Dinh
+
+## Address
+
+Contact
+
+Phone : 0837965814
+
+Cell: 01689984964
+
+E-mail : hoangtrung.uit@gmail.com
+
+## 84/9, street 94, Tan Phu Trung ward, Cu Chi province Ho Chi Minh city
+
+## Desired Position
+
+- -Front end web developer
+
+## Career Objectives
+
+- -Gaining experience, knowledge PHP frameworks
+- -Improve my personal skills
+- -Becoming a professional in Front-end Web developing.
+
+## Skills that suitable for your requirement
+
+- -I have worked as font-end developer for 1 years and 6 months
+- -I'm really strong in jQuery, jQuery ui, Backbone.js MVC framework.
+- -Experience work on Bootstrap and Less
+- -Also can work for PHP framework, such as: Codeigniter &amp; Laravel
+- -Real working with PHPFOX (social network platform)
+- -Have good knowledge about PHP and how to build complete website
+- -Can use photoshop fluently
+- -Can work with many Database management, such as: MySQL, SQL SERVER, ORACLE. Good knowledge about DB INDEX, TRANSACTION, TRIGGER…
+- -Rather good in Listening and Reading skill (TOEIC 625)
+- -Able to think logically, can research, work with new component and new technologies quickly.
+
+## Experience
+
+(May 2012) up to
+
+now
+
+Working as front-end developer for Telcoson Company
+
+Experience on:
+
+Javascript: Backbone.js, jQuery, jQuery ui, jQuery mobile.
+
+Css: Bootstrap, Less
+
+Html and Html5
+
+2012
+
+Associate PHP developer in YouNet company
+
+For 4 months
+
+Work with social network platform : PHPFOX
+
+## Education
+
+2007 to 2012
+
+Engineer in Information System (Frebruary 2012)
+
+University of Information Technology, VNU-HCM Department of Information System
+
+GPA (up to now) : 7.2
+
+Mark in thesis : 8.7
+
+2010
+
+Advanced Java
+
+TMA Training Center (Certification with fair level)
+
+| Foreign Language (1:beginning 5:expert)   | Foreign Language (1:beginning 5:expert)   |
+|-------------------------------------------|-------------------------------------------|
+| Language                                  | Listening Speaking Reading Writing        |
+| English (Toeic 625)                       | 1 2  4 5 1  3 4 5 1 2 3  5 1 2  4     |
+
+| Skills                | Skills                                     | Skills               | Skills                       | Skills                       | Skills                       | Skills                       | Skills                       |
+|-----------------------|--------------------------------------------|----------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+| Skills                | Skills                                     | Months of Experience | Rank (1: Beginning 5:Expert) | Rank (1: Beginning 5:Expert) | Rank (1: Beginning 5:Expert) | Rank (1: Beginning 5:Expert) | Rank (1: Beginning 5:Expert) |
+| Programming Languages | Programming Languages                      |                      |                              |                              |                              |                              |                              |
+| C/C++                 | ANSI C                                     | 3                    | ①    2     3       4      5  | 2                            | 3                            | 4                            | 5                            |
+|                       | C++                                        | 3                    | ①    2     3       4      5  | 2                            | 3                            | 4                            | 5                            |
+| .NET                  | ADO.NET                                    | 3                    | ①    2     3       4      5  | 2                            | 3                            | 4                            | 5                            |
+|                       | C#.NET                                     | 6                    | 1                            | 2                            |                             | 4                            | 5                            |
+|                       | VB.NET                                     | 6                    | 1                            | 2                            |                             | 4                            | 5                            |
+| WEB                   | WEB                                        | WEB                  | WEB                          | WEB                          | WEB                          | WEB                          | WEB                          |
+|                       | Design                                     | 3                    | 1                            |                             | 3                            | 4                            | 5                            |
+|                       | Javascript, jQuery, jQuery-ui, Backbone.js | 18                   | 1                            | 2                            | 3                            |                             | 5                            |
+|                       | JAVA                                       | 6                    | 1                            | 2                            |                             | 4                            | 5                            |
+|                       | PHP                                        | 36                   | 1                            | 2                            | 3                            |                             | 5                            |
+| Database              | Database                                   | Database             | Database                     | Database                     | Database                     | Database                     | Database                     |
+|                       | Analysis & Design                          | 6                    | 1                            | 2                            |                             | 4                            | 5                            |
+|                       | MS SQL Server                              | 6                    | 1                            | 2                            |                             | 4                            | 5                            |
+|                       | My SQL                                     | 3                    | 1                            | 2                            |                             | 4                            | 5                            |
+|                       | Oracle                                     | 3                    | 1                            |                             | 3                            | 4                            | 5                            |
+
+| Taken projects                                                       | Taken projects                                                                                                                                                      |
+|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project's name: CONNECT - social network                             | Project's name: CONNECT - social network                                                                                                                            |
+| Time: 3 months (October - December/2010)                             | Project Description: Building an social network like facebook with some basic features: create post, comment, add friend, … using PHP, MYSQL, AJAX.                 |
+| Size (number of taken people): 4                                     | Project Description: Building an social network like facebook with some basic features: create post, comment, add friend, … using PHP, MYSQL, AJAX.                 |
+| Programming language: PHP Database: MY SQL                           | Project Description: Building an social network like facebook with some basic features: create post, comment, add friend, … using PHP, MYSQL, AJAX.                 |
+| Role:  Database designer  Coder                                    | Project Description: Building an social network like facebook with some basic features: create post, comment, add friend, … using PHP, MYSQL, AJAX.                 |
+| Project's name: Intellectual Property - Thesis                       | Project's name: Intellectual Property - Thesis                                                                                                                      |
+| Time: 4 months (October/2011 - January/2012)                         | Project Description: Building an application that provide documents necessary to register Intellectual Property assets and manage ideas, plans, resources, reports… |
+| Size (number of taken people): 2                                     | Project Description: Building an application that provide documents necessary to register Intellectual Property assets and manage ideas, plans, resources, reports… |
+| Programming language: C# Database: SQL Server 2008 R2                | Project Description: Building an application that provide documents necessary to register Intellectual Property assets and manage ideas, plans, resources, reports… |
+| Role:  Team leader  Database designer  Coder  Interface designer | Project Description: Building an application that provide documents necessary to register Intellectual Property assets and manage ideas, plans, resources, reports… |
+| Project's name: PHPFOX product (social network) - Real project       | Project's name: PHPFOX product (social network) - Real project                                                                                                      |
+| Time: 4 months (May/2012 up to Now)                                  | Project Description: Building some phpfox product, such as: - User connect: To show members connection path, and                                                    |
+| Size (number of taken people): 1                                     | Project Description: Building some phpfox product, such as: - User connect: To show members connection path, and                                                    |
+| Programming language: PHP                                            | Project Description: Building some phpfox product, such as: - User connect: To show members connection path, and                                                    |
+
+## Database: MySQL
+
+## Role:
+
+-  Developer
+-  Database designer
+-  Interface designer
+
+their friends in Five levels, and suggest friends to them.
+
+-   User   profilecompleteness:   Show   users   how   many percent that they completed their profiles, and so Next information that they should have to fill in.
+- Gettingstarted: This is document online help member can   understand   how   the   social   site   run,   provide, support,   everything   about   that   social   site.   (Support multiple languages).
+
+| Project's name: 8-Force(CRM) - Telcoson Company                                                                                        | Project's name: 8-Force(CRM) - Telcoson Company                                                                                                                                                                                                                                                                                                                    |
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Time: 14 months (May/2012 to July/2013)                                                                                                | Project Description: - 8Force is a powerful, yet simple-to-use business software. We deliver software services to small and medium businesses around the world. Our core products include Sales, Invoice, and Helpdesk Automation. 8Force magnetizes and delights everyone to share, communicate, and work together - in the cloud. Website: http://www.8force.com |
+| Size (number of taken people): 6                                                                                                       | Project Description: - 8Force is a powerful, yet simple-to-use business software. We deliver software services to small and medium businesses around the world. Our core products include Sales, Invoice, and Helpdesk Automation. 8Force magnetizes and delights everyone to share, communicate, and work together - in the cloud. Website: http://www.8force.com |
+| Programming language: PHP, Javascript Database: MySQL Framework: Codeigniter, jQuery, Backbone, jQuery jQuery mobile, Bootstrap. Role: | Project Description: - 8Force is a powerful, yet simple-to-use business software. We deliver software services to small and medium businesses around the world. Our core products include Sales, Invoice, and Helpdesk Automation. 8Force magnetizes and delights everyone to share, communicate, and work together - in the cloud. Website: http://www.8force.com |
+| ui,                                                                                                                                    | Project Description: - 8Force is a powerful, yet simple-to-use business software. We deliver software services to small and medium businesses around the world. Our core products include Sales, Invoice, and Helpdesk Automation. 8Force magnetizes and delights everyone to share, communicate, and work together - in the cloud. Website: http://www.8force.com |
+|  Front-end Developer                                                                                                                  | Project Description: - 8Force is a powerful, yet simple-to-use business software. We deliver software services to small and medium businesses around the world. Our core products include Sales, Invoice, and Helpdesk Automation. 8Force magnetizes and delights everyone to share, communicate, and work together - in the cloud. Website: http://www.8force.com |
+|                                                                                                                                        | Project Description: - 8Force is a powerful, yet simple-to-use business software. We deliver software services to small and medium businesses around the world. Our core products include Sales, Invoice, and Helpdesk Automation. 8Force magnetizes and delights everyone to share, communicate, and work together - in the cloud. Website: http://www.8force.com |
+|                                                                                                                                        | Project Description: - 8Force is a powerful, yet simple-to-use business software. We deliver software services to small and medium businesses around the world. Our core products include Sales, Invoice, and Helpdesk Automation. 8Force magnetizes and delights everyone to share, communicate, and work together - in the cloud. Website: http://www.8force.com |
+
+| Project's name: Yummypin (Social network about Fooding)- Telcoson Company   | Project's name: Yummypin (Social network about Fooding)- Telcoson Company                                                                                                                                                                                                                                                         |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Time: 14 months (July/2013 up to now)                                       | Project Description: A collective of awesome food photography and tasty descriptives. Create and organize your own personal yummy space! Turn your Likes into something real. Collect Yummy Coins as you go along and exchange them for real life dining privileges. Website: http://www.yummypin.com/ http://about.yummypin.com/ |
+| Size (number of taken people): 3                                            | Project Description: A collective of awesome food photography and tasty descriptives. Create and organize your own personal yummy space! Turn your Likes into something real. Collect Yummy Coins as you go along and exchange them for real life dining privileges. Website: http://www.yummypin.com/ http://about.yummypin.com/ |
+| Programming language: PHP, Javascript                                       | Project Description: A collective of awesome food photography and tasty descriptives. Create and organize your own personal yummy space! Turn your Likes into something real. Collect Yummy Coins as you go along and exchange them for real life dining privileges. Website: http://www.yummypin.com/ http://about.yummypin.com/ |
+| Database: PostgreSQL                                                        | Project Description: A collective of awesome food photography and tasty descriptives. Create and organize your own personal yummy space! Turn your Likes into something real. Collect Yummy Coins as you go along and exchange them for real life dining privileges. Website: http://www.yummypin.com/ http://about.yummypin.com/ |
+| Framework: Laravel, jQuery, Backbone, jQuery ui, Less.                      | Project Description: A collective of awesome food photography and tasty descriptives. Create and organize your own personal yummy space! Turn your Likes into something real. Collect Yummy Coins as you go along and exchange them for real life dining privileges. Website: http://www.yummypin.com/ http://about.yummypin.com/ |
+| Role:                                                                       | Project Description: A collective of awesome food photography and tasty descriptives. Create and organize your own personal yummy space! Turn your Likes into something real. Collect Yummy Coins as you go along and exchange them for real life dining privileges. Website: http://www.yummypin.com/ http://about.yummypin.com/ |
+
+## Additional Information
+
+## Personal Characteristics
+
+Be honest, hard working, dynamic and creative Be good at  teamwork Be able to work in high pressure and independence
+
+Hobbies
+
+Play Game, Sport, Guitar Listen to music Surfing the internet in free time
+
+Achievements
+
+Top 1 scorer award and No.2 football team  in high school Champion medals for Dota game ( 2 years consecutive) in University

@@ -1,0 +1,124 @@
+TRẦN ĐỨC TIẾN Front-end/Full Stack JavaScript
+
+<!-- image -->
+
+Developer
+
+<!-- image -->
+
+-  August 24, 1992
+-  Male
+-  0972970075
+-  ductienas@gmail.com
+-  Ho Chi Minh, Vietnam
+
+<!-- image -->
+
+## OBJECTIVE
+
+Seeking position of a Front-end or Javascript Developer where I would  be  able  to  put  to  use  the knowledge gained in the software development  cycle  and  technical aptitude.
+
+## SKILLS
+
+HTML5/Jade/Handlebars
+
+<!-- image -->
+
+<!-- image -->
+
+## EDUCATION
+
+## VIETNAM NATIONAL UNIVERSITY HO CHI MINH CITY UNIVERSITY OF INFORMATION TECHNOLOGY
+
+Major: Information System
+
+<!-- image -->
+
+## WORK EXPERIENCE
+
+- 2+ years of front-end experience.
+- Good at Bootstrap Framwork.
+- Strong experiences in Javascript, Angularjs, Reactjs, Nodejs, jQuery, MongoDB.
+
+<!-- image -->
+
+## WORKING HISTORY
+
+## SHINWAY SOFTWARE DEVELOPMENT COMPANY LIMITED
+
+Website: http://shinway.vn
+
+## Position: Software Engineer
+
+- Develop the Website with HTML/CSS, javascript, nodejs, angularjs....
+- Create design and technical solutions.
+- Create and execute project work plans and revises as appropriate to meet changing needs and requirements.
+
+## NAU DIGITAL CREATIVE STUDIO
+
+Website: https://naustud.io
+
+Position: Software Engineer
+
+- Develop the Website with HTML/CSS, javascript, nodejs, angularjs, reactjs....
+- Create design and technical solutions.
+- Create and execute project work plans and revises as appropriate to meet changing needs and requirements.
+
+<!-- image -->
+
+##  TYPICAL PROJECTS
+
+## MAGPIE TRAVEL
+
+A global community of women who love to travel. Meet travel gal pals for global adventures.
+
+| Demo                | Link                                                                                    |
+|---------------------|-----------------------------------------------------------------------------------------|
+| Team size           | 8                                                                                       |
+| My position         | Developer                                                                               |
+| My responsibilities | - Analysis and design - Development - Review code - Optimize code - Update - Bug Fixing |
+| Technologies used   | - Angularjs 1 - nodejs - HTML/CSS - MongoDB - Boostrap                                  |
+
+2016 - Now
+
+2010 - 2015
+
+2014 - 2016
+
+RethinkDB
+
+## INTERESTS
+
+Reading books
+
+Music
+
+Traveling
+
+| One Page HTML       | Template.                                                                               |
+|---------------------|-----------------------------------------------------------------------------------------|
+| Demo                | Link                                                                                    |
+| Team size           | 2                                                                                       |
+| My position         | Developer                                                                               |
+| My responsibilities | - Analysis and design - Development - Review code - Optimize code - Update - Bug Fixing |
+| Technologies used   | - HTML5/CSS3 - Jade/less - jQuery - Boostrap                                            |
+
+## MTEK
+
+| Admin Template Bootstrap + AngularJS.   | Admin Template Bootstrap + AngularJS.                                                   |
+|-----------------------------------------|-----------------------------------------------------------------------------------------|
+| Demo                                    | Link                                                                                    |
+| Team size                               | 3                                                                                       |
+| My position                             | Developer                                                                               |
+| My responsibilities                     | - Analysis and design - Development - Review code - Optimize code - Update - Bug Fixing |
+| Technologies used                       | - Angularjs 1 - HTML5/CSS3 - Jade/less - jQuery - Boostrap                              |
+
+## MADMIN
+
+| Multi Style AngularJS Admin + Frontend.   | Multi Style AngularJS Admin + Frontend.                                                 |
+|-------------------------------------------|-----------------------------------------------------------------------------------------|
+| Demo                                      | Link                                                                                    |
+| Team size                                 | 3                                                                                       |
+| My position                               | Developer                                                                               |
+| My responsibilities                       | - Analysis and design - Development - Review code - Optimize code - Update - Bug Fixing |
+| Technologies used                         | - Angularjs 1 - HTML5/CSS3 - Jade/less - jQuery - Boostrap                              |

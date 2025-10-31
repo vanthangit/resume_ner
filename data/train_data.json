@@ -1,0 +1,5024 @@
+[
+  [
+    "| Name:           | NGUYỄN VĂN HÙNG                   |",
+    {
+      "entities": [
+        [
+          20,
+          35,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Email:          | abrightnewdawn@gmail.com          |",
+    {
+      "entities": [
+        [
+          20,
+          44,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  Full name: Nguyen Hoang Dung",
+    {
+      "entities": [
+        [
+          15,
+          32,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  E-mail: dungnguyen5589@gmail.com",
+    {
+      "entities": [
+        [
+          12,
+          36,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Full Name : Lâm Tuấn Phong Date of Birth :  02-02-1984 Home Address : An Giang Cell phone : 0902556769 Personal Emai l : honglele22@yahoo.com Gender : Male Marital Status : Single Citizen of : Viet Nam Position Applied : Senior .NET Developer",
+    {
+      "entities": [
+        [
+          12,
+          26,
+          "NAME"
+        ],
+        [
+          121,
+          141,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Nguyen Pham Minh Hieu",
+    {
+      "entities": [
+        [
+          3,
+          24,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: 0912144@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          24,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "giangnm@live.com",
+    {
+      "entities": [
+        [
+          0,
+          16,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Khoa Dinh",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "khoa1987@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          18,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## GIANG NGUYEN",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Nguyen Xuan Viet",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Phone : 0988823919     Email : xuanviet1981@gmail.com",
+    {
+      "entities": [
+        [
+          31,
+          53,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Name             : CHENH HENH PHAT",
+    {
+      "entities": [
+        [
+          19,
+          34,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hungphat812@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          21,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: dinhluan1989@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          29,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## RÉSUMÉ LUAN DINH CHI",
+    {
+      "entities": [
+        [
+          10,
+          23,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "<!-- image -->",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "## SUMMARY",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "- o 3 years of experience in web development",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "- o 1 year of experience in testing",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "- o Good programing and problem solving skills",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "- o Ability to work independently or team work",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "- o Sense of responsibility, eagerness to learn and work",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "## SKILLS",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "- o Programming languages:  Javascript, NodeJS, AngularJS, PHP,  HTML, CSS, Bootstrap, Jquery, Ajax",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "- o Database: SQL Server, MySQL, Couchbase, MongoDB, RethinkDB",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "- o Operating system: Windows, Linux (Ubuntu)",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "- o Language: Fluent communication (TOEIC 770)",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "## JOB EXPERIENCE",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "- o 4/2013 - Present: TMA Solutions",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "-  Web  Developer: PHP, AngularJS, NodeJS, Javascript, Responsive UI...",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "-  Quality Control, Business Analyst Support",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "- o 10/2012 - 1/2013: LogiGear VietNam",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "-  Product Support: do automation test with  'Test Architect' tool",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "## RELAVANT PROJECTS",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| PROJECT DESCRIPTION                                                                                                                                                                                                                                                                                                                          | TECHNOLOGIES                                                                                                                                                                                                           |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Social Network Web Web for social network activities: chat, activity post… Features: o Chat, Realtime activity post, update, comment… Duties: o Analysis and clarify requirement with team, customer (directly verbal talk) o Implement feature, fix bugs o Review code                                                                      | 1. Angularjs 2. Bootstrap 3. Async, lodash 4. Json, broadcast, emit 5. BranchIO, ng-notify 6. angular-bugsnag 7. betsol-ng-intl-tel-input 8. Moment, ng-file- upload 9. Git, Github 10. App asana                      |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Sprinter Management Web Web to manage statistic for 3d sprinters Features: o Manage sprinter's statistic about using status, available status, consumer… Duties: o Analysis and clarify requirement with customer o Implement feature, fix bugs o Review code                                                                                | 11. NodeJS- ExpressJs 12. Angularjs 13. Event Emiter 14. Bootstrap 15. D3 16. RethinkDB 17. Promise, Underscore 18. Json 19. Twilio 20. Bitbucket, Jira                                                                |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Telecommunication Management Web Web to manage telecommunication for many user levels: admin, supervisor, user ... Features: o Manage telecommunication for: Tenant, Group, Team, User... Duties: o Analysis and clarify requirement with customer (meeting via skype call once a week ) o Design and Implement API o Review code and deploy | 21. NodeJS- ExpressJs 22. Angularjs, Bootstrap 23. Couchbase DB 24. Promise, Underscore 25. Halson, Json 26. Twilio 27. HTTP headers: If- Non-Match, Accept, Authorization ... 28. SourceTree, Bitbucket 29. SVN, Jira |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Health Management Web Features: Manage client, care giver, appointment, content... Duties: o Analysis and clarify requirement with leader and customer o Design and Implement API o Implement FE feature o Review code and deploy                                                                                                                                                                                         | 30. NodeJS- SailsJs 31. AngularJS 32. SB Admin 2 33. WYSIWYG- textangular 34. MongoDB 35. Bookshelf, Knex 36. Async, nodemailer 37. Halson, Json, Lodash 38. Git, Remine   |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Blog Management System Features: Manage blog, article, image, user... Duties: o Analysis and clarify requirement with leader and FE team o Design and Implement API o Review code and deploy                                                                                                                                                                                                                              | 39. NodeJS- Loopback 40. MongoDB 41. Async 42. Halson, Json, Underscore 43. Authorization 44. Storage Service, Mail 45. Git, Remine                                        |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Health Care Web Develop a modern wed to support people for health care: manage stress, build resilience and optimise performance on the go. Features: o Learn about resilience o Understand service challenges o Tools to manage stress o A plan to improve resilience Duties: o Analysis and clarify requirement with customer (daily meeting via skype call) o Design, Implement and review code o Unit test and deploy | 46. AngularJS 47. Bootstrap 48. HTML5, CSS3, Less 49. PHP- Wordpress 50. MySQL 51. SourceTree, Bitbucket, SVN, Jira 52. Grunt, bower, vargrant, NgBoilerplate              |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Learning management system It's a learning management system to manage and hold learning through the hierarchy levels: district, school, teacher, class, student, course taking… Main modules:                                                                                                                                                                                                                            | o PHP/Yii framework o MySQL o HTML, CSS, Jquery, Ajax o Do report o Cut PSDs, do UI o Git, SVN, Redmine                                                                    |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "|  Landing Page (Site Admin, Teacher) o Manage Users: Add/Edit Users o Manage Districts: Add/Edit Districts o View Activity Report o Manage Classes: Add/Edit Classes o View Course  Course Landing Page  HTML View of Course  Random Quiz Questions Duties : o Communicate and clarify requirement with customer o Implement feature and review code o Test and deploy   |                                                                                                     |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Want board A system helps user buy desired products in quick way, and sell their products more efficient. It is a communication channel between Buyer and Seller, Seller can easily looking for the potential buyers and contact to them.… Duties : o Analyze and clarify requirement with customer o Implement features and APIs                                           | o PHP- Yii framework o HTML, CSS, Jquery, Ajax o Database: MySQL o Cut PSDs, do UI o Git, Bitbucket |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Book Selling A website helps user find and buy books online. Admin user can manage book information, manage user, role… Duties : o Analyze and clarify requirement o Implement features                                                                                                                                                                                     | o PHP- MVC model o HTML, CSS, Jquery, Ajax o MySQL                                                  |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Student Management Main modules:  Manage student information  Manage school, teacher, class  Manage subject, period registration  Manage examination schedule Duties : o Analyze, design system                                                                                                                                                                         | o C# o SQL server, Lin-Q o Crystal report (SAP)                                                     |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| o Package the application                                                                                                                                                                                                                                                          |                   |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Drop web A social article sharing app that lets you compose rich blog articles, save them to the cloud, share with your friends Duties : o Analyze and clarify REQs o Define TCs o Test and report                                                                                 | o Testing         |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| LG App This is LG TV app (WebOS) based on AccuWeather TV app, using the Enyo framework Duties : o Analyze and clarify REQs o Define TCs o Test and report                                                                                                                          | o Testing         |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| SkyMotion SkyMotion provides hyper-located weather by minute. This project is to rework the current SkyMotion. Duties : o Analyze and clarify REQs o Define TCs o Test and report                                                                                                  | o Testing         |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Automation Test Duties : Do automation test with 'Test Architect' tool: o Develop, plan and implement automated test cases based on software requirements and technical understanding. o Run and debug tests against AUT builds/releases during its development lifecycle o Report | o Automation test |",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "## EDUCATION",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "- o 9/2008 - 7/2012: Bachelor of Engineer, major in computer science in HCM University Of Industry.",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "| Full Name       | Lâm T ấn Hảo                                                           |",
+    {
+      "entities": [
+        [
+          20,
+          32,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Email           | haolamtan@gmail.com                                                    |",
+    {
+      "entities": [
+        [
+          20,
+          39,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nguyễn Thông Thái",
+    {
+      "entities": [
+        [
+          0,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Uchihathai105@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          23,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Dangthanh.do@hotmail.com",
+    {
+      "entities": [
+        [
+          0,
+          24,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Sang Lê Nguyễn Vĩnh Frontend Developer (6 months) Sutrix Solutions                 |",
+    {
+      "entities": [
+        [
+          2,
+          21,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| (+84) 942777718 | sanglnv.87@gmail.com | USD 1,000 | Ho Chi Minh, Ho Chi Minh City |",
+    {
+      "entities": [
+        [
+          20,
+          40,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "PERSONAL INFORMATION Full Name : KHA TUAN PHAT Data of birth : September 13, 1991 Sex : Male Place of birth: Sa Dec Town, Dong Thap Province. Current Address : 90/57B , Duong Cat Loi Street, Nha Be District, HO CHI MINH City. Phone Number : 01678 791094 Marital : Married. Email Address : phatkhatuan@gmail.com",
+    {
+      "entities": [
+        [
+          33,
+          46,
+          "NAME"
+        ],
+        [
+          289,
+          310,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "DOB:",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "06-Sep-1988",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Address:",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "55/107/47 Thanh My St., Tan Binh Dist., HCM city.",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Phone",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "+84978 91 79 44",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Email",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "bao.ngothien@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          22,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Name:Son Nguyen Van",
+    {
+      "entities": [
+        [
+          5,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mailaddress:nvs2394@gmail.com",
+    {
+      "entities": [
+        [
+          12,
+          29,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Tống Bảo Trung",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "E-mail: tongtrung90@gmail.com",
+    {
+      "entities": [
+        [
+          8,
+          29,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYEN MINH DUC",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  Email: minhduc1827@gmail.com",
+    {
+      "entities": [
+        [
+          11,
+          32,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## DANG DUNG",
+    {
+      "entities": [
+        [
+          3,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "ĐẶNG QUANG VIỆT DŨNG",
+    {
+      "entities": [
+        [
+          0,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "anthonydangdung@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          25,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYỄN HOÀNG MINH",
+    {
+      "entities": [
+        [
+          3,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Address: 57/636 Nguyễn Oanh, Gò Vấp, Tp Hồ Chí Minh Phone: 0967.977.853 Mail: minhnguyen090991@gmail.com",
+    {
+      "entities": [
+        [
+          78,
+          104,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| NAME   | CUONG NGUYEN PHAN KY     |",
+    {
+      "entities": [
+        [
+          11,
+          31,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Date of birth:              22/08/1985",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "danitthehemoi@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          23,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  Name NGUYEN DAI QUANG",
+    {
+      "entities": [
+        [
+          9,
+          25,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  Email nguyendaiquang86@gmail.com.",
+    {
+      "entities": [
+        [
+          10,
+          36,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYỄN DUY HẢO",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Date of birth:December 1 st ,1991 Place of birth: NinhBinh Nationality: Vietnam Gender: Male Marital status: Single   | Mobile: 093.4321.072 - 0964.298.912 Email: nguyenduyhao1111@gmail.com Address: 39/45/8, Street No.10, Quarter 3, Linh Xuan Ward, Thu Duc District, Ho Chi Minh City   |",
+    {
+      "entities": [
+        [
+          165,
+          191,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Võ Thanh Hoàng Trung",
+    {
+      "entities": [
+        [
+          3,
+          23,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "E-mail : hoangtrung.uit@gmail.com",
+    {
+      "entities": [
+        [
+          9,
+          33,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Hoa, Le Tien",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "DOB: 25-02-1990 Email: tienhoa25290@gmail.com Mobile : +84 979  879 550 Skype : le.hoa25290",
+    {
+      "entities": [
+        [
+          23,
+          45,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYEN HAI DANG",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nguyen Hai Dang",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    ": nguyenhaidang.it@gmail.com",
+    {
+      "entities": [
+        [
+          2,
+          28,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Name              | Nguyen Thanh Xuan                                                      |",
+    {
+      "entities": [
+        [
+          22,
+          39,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Email             | xuanusm@gmail.com                                                      |",
+    {
+      "entities": [
+        [
+          22,
+          39,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Hanh Vo iOS Developer",
+    {
+      "entities": [
+        [
+          3,
+          10,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## TONG DINH THUONG",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## TONG DINH THUONG",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "dinhthuong02@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          22,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nguyen Minh Tai",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: minhtai306@gmail.com.",
+    {
+      "entities": [
+        [
+          7,
+          27,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Luong Ngo",
+    {
+      "entities": [
+        [
+          3,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "E-mail: ngocongluong@gmail.com",
+    {
+      "entities": [
+        [
+          8,
+          30,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nguyen Thanh Trung",
+    {
+      "entities": [
+        [
+          0,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: trungnguyenthanh70 @gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          36,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## TRAN DUC TRINH",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email:               trinhduc20@gmail.com",
+    {
+      "entities": [
+        [
+          21,
+          41,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## POH lien",
+    {
+      "entities": [
+        [
+          3,
+          11,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: tienhoa25290@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          29,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Tôn Văn Khánh",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "tvkhanhit@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          19,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Full name: Thai Hoang Ho Day of birth: 07/09/1988 Place of birth: Ha Tinh province Marial status: Single Cell phone: 0167 456 0435 Email: hthoang88@gmail.com",
+    {
+      "entities": [
+        [
+          14,
+          27,
+          "NAME"
+        ],
+        [
+          141,
+          160,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nguyen The Trinh (Mr)",
+    {
+      "entities": [
+        [
+          0,
+          21,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "trinhnguyenthe@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          24,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## TRAN VUONG QUOC ANH",
+    {
+      "entities": [
+        [
+          3,
+          22,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "E-mail : dien251@yahoo.com",
+    {
+      "entities": [
+        [
+          9,
+          26,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "HOÀNG THẾ HÙNG",
+    {
+      "entities": [
+        [
+          0,
+          14,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## HOÀNG THẾ HÙNG",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## THIEN  NGUYEN",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "nguyenphongthien@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          26,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Name: NGUYỄN BÌNH VĨ Date of Birth: 14-01-1989 Address: 18/107 A Tran Quang Dieu Street, Ward 14, District 3, HCMC Telephone: (+84) 902568677",
+    {
+      "entities": [
+        [
+          9,
+          23,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| NAME     | NGUYEN TAN THO                                                          |",
+    {
+      "entities": [
+        [
+          13,
+          27,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| CONTACTS | - Email: Thomasnguyendev@gmail - Phone: 0988 327 372 - Skype :IDENGUYEN |",
+    {
+      "entities": [
+        [
+          22,
+          43,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Nguyen THI THU THUY",
+    {
+      "entities": [
+        [
+          3,
+          22,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Female 0902560600 amynguyen0505@gmail.com Ho Chi Minh, Vietnam Salary range: $800",
+    {
+      "entities": [
+        [
+          18,
+          41,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYEN MINH THONG",
+    {
+      "entities": [
+        [
+          3,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Phone:+0840908184981 Address: 251/35 Le Quang Dinh Street,Ward 7, Binh Thanh District, HCMC,VietNam Email: playerthong@yahoo.com Date of birth: 07/06/1985",
+    {
+      "entities": [
+        [
+          107,
+          128,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nguyen Thanh Tung",
+    {
+      "entities": [
+        [
+          0,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tungh2@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          16,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Tran Chi Cao 'Cika'",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: cao.tranchi@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          28,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Minh-Hoang Nguyen",
+    {
+      "entities": [
+        [
+          3,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "MINH-HOANG NGUYEN",
+    {
+      "entities": [
+        [
+          0,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "E-mail:  vanhung.tran.it@gmail.com",
+    {
+      "entities": [
+        [
+          9,
+          34,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## TRẦN VĂN HÙNG",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "E-mail: vanhung.tran.it@gmail.com",
+    {
+      "entities": [
+        [
+          8,
+          33,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    ": PHAM THAI HIEN",
+    {
+      "entities": [
+        [
+          2,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Nguyễn Văn Tú",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  caybangmuathuqn@gmail.com",
+    {
+      "entities": [
+        [
+          4,
+          29,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tran Nam",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "namtran09061992@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          25,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Lam Nguyen Tien",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "lamnt.it@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          18,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Full Name:      | HOA QUOC BAO                                 |",
+    {
+      "entities": [
+        [
+          20,
+          32,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Email:          | hqbao15121991@gmail.com                      |",
+    {
+      "entities": [
+        [
+          20,
+          43,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Trần Xuân Vinh",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: xvinhtran@hotmail.com",
+    {
+      "entities": [
+        [
+          7,
+          28,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| FULL NAME: LÊ ANH PHƯỚC                                                                  | FULL NAME: LÊ ANH PHƯỚC                                                           |                                                                                   |",
+    {
+      "entities": [
+        [
+          13,
+          25,
+          "NAME"
+        ],
+        [
+          104,
+          116,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Email: phuoc852312@gmail.com Linkedin: https://www.linkedin.com/in/phuoc- le-b585897a/   | Mobile phone: +84963255320                                                        |                                                                                   |",
+    {
+      "entities": [
+        [
+          9,
+          30,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Anh Nguyen",
+    {
+      "entities": [
+        [
+          3,
+          13,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "anhnguyen.tb90@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          24,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Full Name :      | TRUONG DUC TAI                              |",
+    {
+      "entities": [
+        [
+          21,
+          35,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Email :          | truongductai.vn@gmail.com                   |",
+    {
+      "entities": [
+        [
+          21,
+          46,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Đ ặ ng Văn Linh",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "vanlinh.dev.vn@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          24,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Full Name   |   Nguyen Tan Hung | Email    | tanhung0107@gmail.com   |",
+    {
+      "entities": [
+        [
+          18,
+          33,
+          "NAME"
+        ],
+        [
+          47,
+          68,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Do Van Quyen",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Name            | NGUYỄN TUẤN ANH                              |",
+    {
+      "entities": [
+        [
+          20,
+          35,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| E-mail          | tuananh23791@gmail.com                       |",
+    {
+      "entities": [
+        [
+          20,
+          42,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Trần Bắc Sơn PYTHON / PHP / JS FULL STACK DEVELOPER",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "mail@tbson.info",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| NAME     | NGUYEN TAN THO                                                          |",
+    {
+      "entities": [
+        [
+          13,
+          27,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| CONTACTS | - Email: Thomasnguyendev@gmail - Phone: 0988 327 372 - Skype :IDENGUYEN |",
+    {
+      "entities": [
+        [
+          22,
+          43,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## DO HOANG YEN",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "District 9, Hcm| 01659 033 860 \\_ Skype: do\\_hoangyen| dohoangyen93@gmail.com  linkedin.com/in/dohoangyen1993  github.com/DoHoangYen",
+    {
+      "entities": [
+        [
+          55,
+          77,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Name: Binh Nguyen Dinh",
+    {
+      "entities": [
+        [
+          6,
+          22,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: ndbinh99@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          25,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Nguyen Cong Y",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "congy94@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          17,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Curriculum vitae LE TRUNG THU",
+    {
+      "entities": [
+        [
+          20,
+          32,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "|                    | Full Name:         | Le Trung Thu                                                                                                 |",
+    {
+      "entities": [
+        [
+          44,
+          56,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "|                    | Email address:     | thult304@yahoo.com                                                                                           |",
+    {
+      "entities": [
+        [
+          44,
+          62,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## TRAN LE DUY THANH",
+    {
+      "entities": [
+        [
+          3,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email : thanh@pizzathieves.com",
+    {
+      "entities": [
+        [
+          8,
+          30,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Bui Duy Quy",
+    {
+      "entities": [
+        [
+          3,
+          14,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "- -Email: buiduyquy@gmail.com",
+    {
+      "entities": [
+        [
+          10,
+          29,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYỄN VĂN DUY",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "71/11 TA16 Street, Thoi An wards, 12 district, Ho Chi Minh city 01649-82-62-14 nguyenvanduy.vtk33dlu@gmail.com",
+    {
+      "entities": [
+        [
+          79,
+          110,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Full Name : Le Cong Nguyen",
+    {
+      "entities": [
+        [
+          12,
+          26,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: milldol84@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          26,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## TRAN HUU HOANG",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "16A1 VU NGOC PHAN, Ward 13, Bình Thạnh District ▼ 0902.680.046 ▼ huuhoangtran\\_86dl@yahoo.com.vn",
+    {
+      "entities": [
+        [
+          65,
+          96,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Su Tran",
+    {
+      "entities": [
+        [
+          3,
+          10,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "trannguyentiensu@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          26,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Bùi Duy Quốc Nghị",
+    {
+      "entities": [
+        [
+          3,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "info@titancorp.vn",
+    {
+      "entities": [
+        [
+          0,
+          17,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Name: Pho Tran Van",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Trần Xuân Vinh",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: xvinhtran@hotmail.com",
+    {
+      "entities": [
+        [
+          7,
+          28,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## ĐỖ ĐẶNG MINH",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  Email: masterminh219@gmail.com.",
+    {
+      "entities": [
+        [
+          11,
+          34,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Tri Minh Nguyen",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    ": minhtri.mtn@hotmail.com",
+    {
+      "entities": [
+        [
+          2,
+          25,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Full name: NGUYEN VAN DONG",
+    {
+      "entities": [
+        [
+          11,
+          26,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "dongnv1991@gmail.com.",
+    {
+      "entities": [
+        [
+          0,
+          20,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYEN THI MINH KHUE",
+    {
+      "entities": [
+        [
+          3,
+          23,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "minhkhue1234@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          22,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mai\tGia\tTran",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "maigiatran@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          20,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Son Bui Ngoc",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Email: sonbn91@gmail.com                               |",
+    {
+      "entities": [
+        [
+          9,
+          26,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Full Name:                                                 | Tran Lo Giang                                              | Date of Birth: 18 October 1981                                                                                                                        |",
+    {
+      "entities": [
+        [
+          63,
+          76,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Duong Hong Thinh",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "HoChiMinh, Vietnam thinhduong223@gmail.com 0938822392",
+    {
+      "entities": [
+        [
+          19,
+          42,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## BUI DUNG ANH TUAN",
+    {
+      "entities": [
+        [
+          3,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "anhtuanbd84@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          21,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    ": NGUYEN KHAC CHAN",
+    {
+      "entities": [
+        [
+          2,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    ": khacchan@gmail.com",
+    {
+      "entities": [
+        [
+          2,
+          20,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Thang Hoang Cao Software Engineer",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Thang Hoang Cao Software Engineer",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    ":  Huỳnh Thái Tâm",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    ":  thaitam.fetel.2406@gmail.com",
+    {
+      "entities": [
+        [
+          3,
+          31,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYEN NHAT TUAN",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "2 Nguyen Hien Le , HCM City nguyennhattuan0504@gmail.com 0989427570",
+    {
+      "entities": [
+        [
+          28,
+          56,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nguyễn Thông Thái",
+    {
+      "entities": [
+        [
+          0,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Uchihathai105@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          23,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Tran Phuc Ho",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Le Hai Thinh (Mr).",
+    {
+      "entities": [
+        [
+          0,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Lê Hải Thịnh",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "hans.thinhle@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          22,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Sang Lê Nguyễn Vĩnh",
+    {
+      "entities": [
+        [
+          3,
+          22,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "(+84) 942777718 | sanglnv.87@gmail.com | USD 1,000 | Ho Chi Minh, Ho Chi Minh City",
+    {
+      "entities": [
+        [
+          18,
+          38,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Pham Trung Truc",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: pttruc87@gmail.com Skype: pttruc87",
+    {
+      "entities": [
+        [
+          7,
+          25,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## E-mail: nguyenpc2010@gmail.com",
+    {
+      "entities": [
+        [
+          11,
+          33,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## TRẦN QUỐC NGUYỆN",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## HIEN NGOC NGUYEN",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "nnhien1991@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          20,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| NAME     | Hoang Trong The        |",
+    {
+      "entities": [
+        [
+          13,
+          28,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Name: Hoang Trong The",
+    {
+      "entities": [
+        [
+          6,
+          21,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Huy Minh Bui",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mobile: 0908.444.385 Email: minhhuybui@gmail.com Year of Birth: 1986 Nationality: Vietnamese Address: District Thu Duc, Ho Chi Minh City, Vietnam",
+    {
+      "entities": [
+        [
+          28,
+          48,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYỄN CÔNG SƠN",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Cellphone: 0937881037 Email: sonnguyen1187@gmail.com",
+    {
+      "entities": [
+        [
+          29,
+          52,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYEN HONG NHAT THANH FULL STACK DEVELOPER",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: nhatthanh510@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          29,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Nguyen Huy Son",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Full name                    : Nguyen Huy Son",
+    {
+      "entities": [
+        [
+          31,
+          45,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYEN VAN PHU",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "phuhitec@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          18,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Cuong Chau Hon",
+    {
+      "entities": [
+        [
+          0,
+          14,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "chcuong@apcs.vn",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Tran Nguyen Thanh Tung",
+    {
+      "entities": [
+        [
+          3,
+          25,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: leonblue311@yahoo.com",
+    {
+      "entities": [
+        [
+          7,
+          28,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Name: Hoang Dung Phi",
+    {
+      "entities": [
+        [
+          6,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: hoangdungphi2511@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          33,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYEN MINH THONG",
+    {
+      "entities": [
+        [
+          3,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Good playerthong@yahoo.com",
+    {
+      "entities": [
+        [
+          5,
+          26,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Lê Tùng Chinh Lê Tùng Chinh",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ],
+        [
+          17,
+          30,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "t ungchinhbt@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          22,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYEN VAN LUAN",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Candidate Information:  | Full name: Nguyen Van Luan Birthday: 02/03/1990 Gender: Male Marital status: Single Experience: 1 year Degree: engineer Grade : EXCELLENT Foreign language: English                                                                                                                                                                                                                                                                             |",
+    {
+      "entities": [
+        [
+          39,
+          54,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Contact Information:    | Address: Danh Thang-Hiep Hoa-Bac Giang Country: Viet Nam Mobile: +84973989200 Email: luanpro23@gmail.com                                                                                                                                                                                                                                                                                                                                        |",
+    {
+      "entities": [
+        [
+          113,
+          132,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Trần Việt Dũng",
+    {
+      "entities": [
+        [
+          0,
+          14,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: vietdung1508@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          29,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Cuong Lam Thanh",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## MR ROBERT TRUONG",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "fca.thanghoa@icloud.com",
+    {
+      "entities": [
+        [
+          0,
+          23,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Luong Quy Tinh Ha",
+    {
+      "entities": [
+        [
+          3,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Phạm Nguyễn Phúc Chánh Phạm Nguyễn Phúc Chánh",
+    {
+      "entities": [
+        [
+          3,
+          25,
+          "NAME"
+        ],
+        [
+          26,
+          48,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  phamchanh6599@gmail.c om",
+    {
+      "entities": [
+        [
+          4,
+          28,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Full name : Pham Dang Duy Khanh                                                    | Male/Female: Male                                                                  | Marital status: Single                           |",
+    {
+      "entities": [
+        [
+          14,
+          33,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Contact address: 463B/12 CMT8 St., District 10, Ho Chi Minh City                   | Contact address: 463B/12 CMT8 St., District 10, Ho Chi Minh City                   | Email address : khanh.phamdd@gmail.com           |",
+    {
+      "entities": [
+        [
+          188,
+          210,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Lê Duy Hoàng.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "hoangld.dev@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          21,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## PHAM DUY TIEN",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "phduytien4891@gmail.com duytien4891",
+    {
+      "entities": [
+        [
+          0,
+          23,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## E D U C A T I O N DANG XUAN TRAN",
+    {
+      "entities": [
+        [
+          21,
+          35,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Luyxtran264@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          21,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Khai Le Quang",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Email        | khai.le@live.com                                |",
+    {
+      "entities": [
+        [
+          17,
+          33,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tran Huu Tam",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "tranhuutam2001@yahoo.com",
+    {
+      "entities": [
+        [
+          0,
+          24,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "TRẦN ĐỨC TIẾN Front-end/Full Stack JavaScript",
+    {
+      "entities": [
+        [
+          0,
+          13,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  ductienas@gmail.com",
+    {
+      "entities": [
+        [
+          4,
+          23,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Full name: NGUYEN THANH VU",
+    {
+      "entities": [
+        [
+          11,
+          26,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email Address:  ngthanhvu@gmail.com .",
+    {
+      "entities": [
+        [
+          16,
+          37,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "ĐỖ VĂN QUỐC",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  Email:          quocboy159@gmail.com",
+    {
+      "entities": [
+        [
+          20,
+          40,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## TRẦN CƯƠNG TRỰC",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Nguyen Minh Thang glyph[diamondmath] Male, 27 years old",
+    {
+      "entities": [
+        [
+          3,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "313 Chu Van An 1050 Apartment glyph[diamondmath] Binh Thanh District, Ho Chi Minh City (084) · 123 · 6908959 glyph[diamondmath] quaywin@gmail.com",
+    {
+      "entities": [
+        [
+          128,
+          145,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Date of Birth: March 26, 1987 Gender: Male Marital Status: Single Permanent Address: 61/14F Le Duc Tho Street, Ward 6, District Go Vap, HCM City, VietNam E-mail: vnhauc@gmail.com Skype: vnhauc",
+    {
+      "entities": [
+        [
+          162,
+          178,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Ha Xuan Hoan",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Huynh Tan An",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email:           huynhtanan90@gmail.com",
+    {
+      "entities": [
+        [
+          17,
+          39,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Toan Tran",
+    {
+      "entities": [
+        [
+          3,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ho Chi Minh City me@toan.mobi",
+    {
+      "entities": [
+        [
+          17,
+          29,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Le Kim Tung Le Kim Tung",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  kimtungcdt@gmail.com",
+    {
+      "entities": [
+        [
+          4,
+          24,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Name: Hoàng Thanh Tùng",
+    {
+      "entities": [
+        [
+          6,
+          24,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: tung.hoangthanh90@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          34,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## TRAN QUANG MINH",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ho Chi Minh City * mtran8@binghamton.edu * 0933061291 Github: https://github.com/minhtran612",
+    {
+      "entities": [
+        [
+          19,
+          40,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Full Name:                      | LÊHỮUPHÚC                             | Gender:                               | Male                                  |",
+    {
+      "entities": [
+        [
+          36,
+          45,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Mobile phone:                   | 0984 726 325                          | E-mail:                               | lehuuphucaptech@gmail.com             |",
+    {
+      "entities": [
+        [
+          116,
+          141,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    ": Dang Nhat Minh",
+    {
+      "entities": [
+        [
+          2,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    ": minh.dangnhat@hotmail.com",
+    {
+      "entities": [
+        [
+          2,
+          27,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## CUONG LAM THANH",
+    {
+      "entities": [
+        [
+          3,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: thanhcuong1990@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          31,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Name : Tran Anh Tuan Address : Room No 301, block H3, Le Gia Dinh, Hai Ba Trung dist, HN. Tel : 0906 267 867 Email : trananhtuan.v1@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          20,
+          "NAME"
+        ],
+        [
+          117,
+          141,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Full name: TAT TUAN PHONG Birth date: 11/26/1986 Mobile: 01667 549 517 Email: tattuanphong2005@gmail.com Address: 46/28 Vuon Chuoi, Ward 4, District 3, Ho Chi Minh City",
+    {
+      "entities": [
+        [
+          11,
+          25,
+          "NAME"
+        ],
+        [
+          78,
+          104,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "## EDUCATION",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "## DO HUY HUNG",
+    {
+      "entities": [
+        [
+          3,
+          14,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Do Huy Hung",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "hungdh1405@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          20,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NAM QUOC DAM",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  namdq1969@gmail.com",
+    {
+      "entities": [
+        [
+          4,
+          23,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Phuc Nguyen Minh",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "phucnguyenpr@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          22,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## LE VAN LONG",
+    {
+      "entities": [
+        [
+          3,
+          14,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Date of birth : 29/11/1993 Address : Me Tri Ha - Tu Liem - Ha Noi Gender : Male Hand phone : +84 91 776 03 13 Email : levanlongktmt@gmail.com Skype : levanlongktmt Github : https://github.com/levanlongktmt",
+    {
+      "entities": [
+        [
+          118,
+          141,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Vu Hoang",
+    {
+      "entities": [
+        [
+          3,
+          11,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Name  : LE BAO TOAN",
+    {
+      "entities": [
+        [
+          8,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email   : toan.lee@outlook.com",
+    {
+      "entities": [
+        [
+          10,
+          30,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Tran Phuoc Tu",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "tranphuoctu@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          21,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Full name: Huynh Hong Phuoc Gender: Male Birthday: November 5 th , 1991 Address: 13   Long   Thanh   Hamlet,   Long   Binh   Dien   Ward,   Cho   Gao District, Tien Giang Province Phone No: (+84) 907646131 Email: phuochuynh51191@gmail.com",
+    {
+      "entities": [
+        [
+          11,
+          27,
+          "NAME"
+        ],
+        [
+          213,
+          238,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## L Ý   T H I Ệ N   N H Â N   ( M R . )",
+    {
+      "entities": [
+        [
+          3,
+          40,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: nhanlt1710@gmail.com - 0907 998 511",
+    {
+      "entities": [
+        [
+          7,
+          27,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Le Bui Duc",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "lebuiduc@yahoo.com",
+    {
+      "entities": [
+        [
+          0,
+          18,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## VO QUOC KHANH (Mr.)",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "khanhvo1809@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          21,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Hoang\tPhan\tQuang",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email:\tquanghoang0101@yahoo.com.vn",
+    {
+      "entities": [
+        [
+          7,
+          34,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Full name     | Lam, Nguyen Quoc Dai                                                                |",
+    {
+      "entities": [
+        [
+          18,
+          38,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Email         | dailamnguyen88@gmail.com                                                            |",
+    {
+      "entities": [
+        [
+          18,
+          42,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## DANH\tNGUYEN",
+    {
+      "entities": [
+        [
+          3,
+          14,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "(+84)\t168\t993\t2210 dnncntt@gmail.com",
+    {
+      "entities": [
+        [
+          19,
+          36,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## TRINH QUOC HOA",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "quochoa15@yahoo.com",
+    {
+      "entities": [
+        [
+          0,
+          19,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Name          | Pham Anh Tho                                                                                 |",
+    {
+      "entities": [
+        [
+          18,
+          30,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Contacts      | Mobile Phone: +84906687991 Email Address: phamanhtho@gmail.com Msn: pham.anh.tho@hotmail.com |",
+    {
+      "entities": [
+        [
+          60,
+          80,
+          "EMAIL"
+        ],
+        [
+          86,
+          110,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## TONG XUAN TRUONG",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  david.truong.tong@gmail.com",
+    {
+      "entities": [
+        [
+          4,
+          31,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    ": Phung Minh Tri.",
+    {
+      "entities": [
+        [
+          2,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    ": minhtriphung@gmail.com",
+    {
+      "entities": [
+        [
+          2,
+          24,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## PHAM VAN HUNG",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Full name:            | PHAM VAN HUNG       |",
+    {
+      "entities": [
+        [
+          26,
+          39,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| E-mail:               | Pvhung123@gmail.com |",
+    {
+      "entities": [
+        [
+          26,
+          45,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "TRƯƠNG ĐẶNG NGUYỄN Day of birth :  (01/05/1989)",
+    {
+      "entities": [
+        [
+          0,
+          18,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: dangnguyenful@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          30,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mai\tGia\tTran",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "maigiatran@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          20,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Vinh Bui Quang",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Feb 19, 1990 Male +84 979 315 207 vinhbq1902@gmail.com HCMC, Vietnam dar-studio.com",
+    {
+      "entities": [
+        [
+          34,
+          54,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## ! TRẦN%QUANG%VINH",
+    {
+      "entities": [
+        [
+          5,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email :!drqvtran@gmail.com!",
+    {
+      "entities": [
+        [
+          8,
+          26,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Trần Bắc Sơn PYTHON / PHP / JS FULL STACK DEVELOPER",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "mail@tbson.info",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## SINH TIEN HO",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "70 LU GIA STR, WARD 10 DIST. 11, HO CHI MINH CITY SINHTIENHO@GMAIL.COM 01223454270",
+    {
+      "entities": [
+        [
+          50,
+          70,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "phatnd89@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          18,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Khai Kim Hoang Android Developer",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "hoangkimkhai276@gmail.com www.linkedin.com/in/hkhai",
+    {
+      "entities": [
+        [
+          0,
+          25,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Bao Ngo Thien",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email:    bao.ngothien@gmail.com",
+    {
+      "entities": [
+        [
+          10,
+          32,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Nguyen Hien",
+    {
+      "entities": [
+        [
+          3,
+          14,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "cptrodgers@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          20,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Vinh Nguyen",
+    {
+      "entities": [
+        [
+          3,
+          14,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "VINH NGUYEN VAN",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "E-mail: nvvinhit2020@gmail.com",
+    {
+      "entities": [
+        [
+          8,
+          30,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Vinh Huynh",
+    {
+      "entities": [
+        [
+          3,
+          13,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| E-mail            | huhuvipi@gmail.com       |",
+    {
+      "entities": [
+        [
+          22,
+          40,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Ảnh 4* 6                                     | Full Name                                    | Hoàng Văn Dương                              |",
+    {
+      "entities": [
+        [
+          96,
+          111,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "| Ảnh 4* 6                                     | Email                                        | duonghv@fsoft.com.vn                         |",
+    {
+      "entities": [
+        [
+          96,
+          116,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Ho Viet Tuan",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "tuanhung9293@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          22,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGO MINH HIEN",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "nmhien88@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          18,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "THIEN  DO  DUC (Đỗ Đức Thiện)",
+    {
+      "entities": [
+        [
+          0,
+          29,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "thienddfu@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          19,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Curriculum Vitae",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "-  Full Name   : Phạm Bá Lập",
+    {
+      "entities": [
+        [
+          18,
+          29,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  Email   : lappb172@gmail.com",
+    {
+      "entities": [
+        [
+          14,
+          32,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Nguyen Minh Triet",
+    {
+      "entities": [
+        [
+          3,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "-  Phone Number: 01694.994.774  Email address: petertriet@gmail.com",
+    {
+      "entities": [
+        [
+          49,
+          69,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYEN NGOC HOANG",
+    {
+      "entities": [
+        [
+          3,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "hoanghcmus@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          20,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## BAO DIEN",
+    {
+      "entities": [
+        [
+          3,
+          11,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "10/184 Phan Chu Trinh, Ward Phuoc Vinh, Thua Thien Hue, Viet Nam Email: thienphuc1410@gmail.com Skype: thienphuc1410 G-talk: thienphuc1410 Cell: (84) 1227465095",
+    {
+      "entities": [
+        [
+          72,
+          95,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## LE VINH NGHIEM",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "le.vinhnghiem@gmail.com, yahoo.com",
+    {
+      "entities": [
+        [
+          0,
+          23,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## NGUYEN CONG BINH",
+    {
+      "entities": [
+        [
+          3,
+          19,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: ngco.binh@yahoo.com",
+    {
+      "entities": [
+        [
+          7,
+          26,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Name : Thai Ly Cuong Address : A10/4 Hong Linh Plaza, Trung Son Area, Ho Chi Minh City, Vietnam Cell Phone : (+84) 937 408 330 Email : thailycuong1202@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          20,
+          "NAME"
+        ],
+        [
+          135,
+          160,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## HUỲNH VĂN TOÀN",
+    {
+      "entities": [
+        [
+          3,
+          17,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  huynhvantoan.itc@gmail.com",
+    {
+      "entities": [
+        [
+          4,
+          30,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "- Email: dangquocdat.ht@gmail.com",
+    {
+      "entities": [
+        [
+          9,
+          33,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## DANG QUOC DAT",
+    {
+      "entities": [
+        [
+          3,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "NGUYEN DUC CHINH",
+    {
+      "entities": [
+        [
+          0,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "ducchinhdl@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          20,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "-  gi aquyen1995@ gm ai l . com",
+    {
+      "entities": [
+        [
+          4,
+          32,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vo Hong Quan",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: vhquan89@gmail.com",
+    {
+      "entities": [
+        [
+          7,
+          25,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Hoang Nguyen",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "ngoochooang@gmail.com | To 5 phuong An Khe, Thanh Khe Da Nang",
+    {
+      "entities": [
+        [
+          0,
+          21,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tran Lo Giang",
+    {
+      "entities": [
+        [
+          0,
+          13,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Name: Trinh Tien Hai",
+    {
+      "entities": [
+        [
+          6,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email Address: trinhtienhai@gmail.com",
+    {
+      "entities": [
+        [
+          15,
+          37,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "DINH QUANG LONG",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "longbalan@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          19,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "FULL NAME: TRẦN NGUYÊN THANH TÂM",
+    {
+      "entities": [
+        [
+          11,
+          32,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "sawyerkiss87@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          22,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Mr. TRUONG THANH NGUYEN",
+    {
+      "entities": [
+        [
+          7,
+          26,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nguyễn Thành Tâm",
+    {
+      "entities": [
+        [
+          0,
+          16,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "kenjo8892@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          19,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "TUAN HUYNH VAN",
+    {
+      "entities": [
+        [
+          0,
+          14,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "entec\\_vtuan@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          22,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Curriculum Vitae NGUYEN MINH BINH",
+    {
+      "entities": [
+        [
+          20,
+          36,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email: nmbinh87@gmail.com.",
+    {
+      "entities": [
+        [
+          7,
+          25,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## DANG DUNG",
+    {
+      "entities": [
+        [
+          3,
+          12,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "ĐẶNG QUANG VIỆT DŨNG",
+    {
+      "entities": [
+        [
+          0,
+          20,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "anthonydangdung@gmail.com",
+    {
+      "entities": [
+        [
+          0,
+          25,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "## Huynh Tan An",
+    {
+      "entities": [
+        [
+          3,
+          15,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "Email:            huynhtanan90@gmail.com",
+    {
+      "entities": [
+        [
+          18,
+          40,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "TIEN DO QUYET",
+    {
+      "entities": [
+        [
+          0,
+          13,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    ":     Tiendo10 11@gmail.com",
+    {
+      "entities": [
+        [
+          6,
+          27,
+          "EMAIL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Name :                   Dang Tuan Anh",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "NAME"
+        ]
+      ]
+    }
+  ],
+  [
+    "E-Mail :                 Anhdt.it@gmail.com",
+    {
+      "entities": [
+        [
+          25,
+          43,
+          "EMAIL"
+        ]
+      ]
+    }
+  ]
+]

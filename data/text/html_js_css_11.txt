@@ -1,0 +1,76 @@
+<!-- image -->
+
+## CURRICULUM VITAE
+
+Name:
+
+Nguyen Thanh Trung
+
+Date of birth: 19/08/1983
+
+Sex: Male
+
+Married Status: Married
+
+Add: Hoang Liet-Hoang Mai-Hanoi
+
+Email: trungnguyenthanh70 @gmail.com
+
+Mobile : 0983987498
+
+## I. EDUCATION, TRAINING AND SKILL
+
+- -Bachelor of IT Department of Phuong Dong University.
+- -Let's talk course of London Language Center (Thai Ha Branch).
+- -Other courses : Web Design, make HTML &amp; CSS, HTML5 &amp; CSS3,
+- -Skill: Design web cut and match website CSS. I can use framework Twitter Boostrap, Less ,960 grid framework,htm5 &amp; css3, make theme Wordpress, Opencart, Joomla,magento,jquery,php basic.. make HTML &amp; CSS Validate W3C, can use SVN and GIT
+
+## II. EXPERIENCE
+
+## 1. VietSoftware International Inc.
+
+( 6th Floor, Toyota Building, 15 Pham Hung Road, Tu Liem , Hà Nội , Viet Nam )
+
+## Title:
+
+Web Developer.
+
+## Task:
+
+Design web,convert psd file to html,css . Convert htm,css to wordpress, make theme for wordpress, joomla CMS
+
+2. eXoPlatform SEA
+
+(7th &amp; 8th Floors ,18/11 Thai Ha Street, Dong Da District, Ha Noi,Viet Nam ) Title: Web Developer Task: manage product of company CS,Forum, Socail, ECMS, Portal, PLF4. Support
+
+- Design web, cut and match web (HTML, CSS), use framework bootstrap, other team
+
+## III.PROJECT
+
+| Name                                                                                     | Duration   | Technology                                     | Role                         | Responsibility                                                                                                                              |
+|------------------------------------------------------------------------------------------|------------|------------------------------------------------|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| PLATFORM 3.0.x (http:// exoplatform.co m/)                                               | 2010-2012  | Design/HTML/ CSS /java template                | Developer                    | Convert design file to html/css. Manage html,css. Support other team use structure html correctly                                           |
+| PLATFORM 40.x (http:// exoplatform.co m/)                                                | 2012-2014  | Design /HTML/CSS/L ess/boostrap/jav a template | Developer + Technique leader | Update layouts for PLF4.0.x . Manage less ,css ..Supp ort other team use structure html correctly                                           |
+| Mariosarti (http:// mariosarti.com. au/)                                                 | 2013       | Desgin/ Wordpress / html5/css3                 | Freelance (Leader)           | Create restaurant site with responsive function . Use Wordpress CMS. This is responsive site (display well on mobile, table, desktop)       |
+| fergusonplarre (http:// fergusonplarre. nx.smartosc.co m/). username/pass word: magento/ | 2013       | Magento                                        | Freelance (developer)        | This is ecommerce site. My Responsibility is Convert design file to Magento CMS                                                             |
+| Statewideriver s (http:// www.devsite.co m.au/ statewiderivers/ )                        | 2013       | Joomla/T3 Framework/Les s/Jquery               | Freelance (Leader)           | Statewide River and Stream Management Pty Ltd actively promotes and encourages environmental awareness and prides itself on its involvement |
+
+|                                                         |      |                               |                         | in many waterway rehabilitation projects throughout Victoria. My Responsibility is : Convert design file to Joomla CMS. This is responsive site (display well on mobile, table, desktop)   |
+|---------------------------------------------------------|------|-------------------------------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| picobarn http:// picobarn.com/ about-us/meet- our-team/ | 2013 | Wordpress/ Html5/css3/ jquery | Responsive Web Designer | Convert design file to wordpress CMS.This is responsive site (display well on mobile, table, desktop)                                                                                      |
+| cherricompute rs http:// www.cherrico mputers.com/      | 2013 | opencart                      | Freelance (Leader)      | This is ecommerce site. My Responsibility is Convert design file to Opencart CMS                                                                                                           |
+
+IV. TARGET
+
+- -Contribute to Company's Developing.
+- -Always make plans, strategy for myself.
+- -Get good relationship and improve personal skill.
+
+## IV CHARACTERISTIC AND CAPACITY
+
+- -Truthful, hardworking, decisive
+- -Enthusiasm, sympathetic, creative
+- -Careful, resourceful.
+- -Self-confident.
+- -Work independently as well as work in team, make plan, control time, job.
+- -Willing to co-operate other department, support to each other.

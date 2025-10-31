@@ -1,0 +1,125 @@
+## Career Summary :
+
+Having  more  than 3  years  of  experience in front-end  developing  position ,  including  web designing implementation, data logic implementation, services API implementation…:
+
+<!-- image -->
+
+## Technical Skills Summary:
+
+<!-- image -->
+
+Front-end
+
+<!-- image -->
+
+Back-end
+
+<!-- image -->
+
+## P R O F I L E
+
+## L Ý   T H I Ệ N   N H Â N   ( M R . )
+
+Email: nhanlt1710@gmail.com - 0907 998 511
+
+------------------------------------------
+
+Viettel DMS Solution System Modules : Customer Management Modules Products Order Management Modules Report Modules
+
+Excellent soft
+
+skills and
+
+communication and
+
+presentation  in  English  with  large  diversified  team members from different nations and languages.
+
+Emirates Airline EMPACT cross platform system Airport  Service  UI Lounge Service Modules.
+
+Much experience working with large-scaled projects and application lifecycle management
+
+## Key projects undertaken :
+
+## Achievement :
+
+Viettel employee of the month : rewarded as providing solutions solving  the  complexity  of  products related business flow into sub modules  that  helps speeding  the system performance +20sec .
+
+Applied NEWS (Nimble Emirates Web Stack) framework to re structure the project code and style guide
+
+Create the common template structure for DMS project's scalability for future use
+
+Be part of the EMPACT component team when key member are responsible for researching, documenting, guiding and providing common
+
+PERSONAL EDUCATION:
+
+2008-  05/2012:  Study  and  Graduated  at  Degree  of  Bachelor Software Engineering at FPT University Ho Chi Minh.
+
+##  Languages:
+
+-  Vietnamese : mother tongue
+-  English :  have  advance  English  communication  skills  (speaking  fluently,  good  listening,  can read and write documents well.)
+-  Japanese : primary (in FPT University)
+
+##  Technical skills:
+
+-  Front-end:  Javascripts,  Angular  JS  1.0  and  2.0,  Jquery,  Struts2,  HTML5,  CSS3,  Bootstrap Responsive Design, Angular Materials Design framework, Struts2, ECMA scripts 2015.
+-  Back-end:  Java  J2EE,  Node.JS,  Hibernate,  Spring  MVC,  SQL  (Oracle  PL/SQL),  NoSQL  ( MongoDB), Jasper Report.
+-  Version-Control: GIT, SVN
+-  Agile project management tools: Atlassian JIRA Software, Jenkins Automation DevOps
+-  Development tools: Spring Tool Suite, Eclipse, WebStorm, Sublime Text, Notepad++
+-  Task-runner tools: Yeoman, Grunt, Karma, Jasmine, Bower, Node…
+-  Platform: Windows, Linux.
+
+##  Other skills:
+
+-  Self-study and research.
+-  Use Microsoft Office efficiently
+-  Good presentation skill
+-  Self-working with high pressure
+-  Working in group skill
+-  Working with high responsibility
+
+## PERSONAL WORKING EXPERIENCES:
+
+12/2014 - 2/2016: Onsite working at Emirates Group Information Technology Center as a senior front end developer
+
+<!-- image -->
+
+06/2012 - 11/2014: Working at Viettel Software Company as a full-stack developer
+
+<!-- image -->
+
+| 06/2014 - 11/2014   | Leading developer for the new project: a LITE version of the DMS core business system, that can adapt specific requirements for all normal and small companies with smaller size and capability of functional screen and business flow . This product can be seen as a shorten version of the full DMS ONE that is provided to Vinamilk.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 02/2014 - 05/2014   | Worked as a main technical support for re-creating and maintaining the most complicated and difficult core business requirement from the customer : mastering the SALE ORDER module for all concurrent projects - the second core module of the DMS system ( the other one is the SALE SUPPERVISOR module ).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 07/2013 - 01/2014   | Starting as a technical leader for the team consisting of 5 member working on the new project that provide extra service for all Vinamilk's farm all over Vietnam country. The new system is also based on the core framework.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 12/2012 - 06/2013   | Joined in the VINAMILK DMS project as a full-stack developer . - About : This is Viettel's biggest project, developing for providing customer one multi-platform system with capability to handle all functionality that a distributed management system can support for beverage and drink business in general, and specifically for Vinamilk customer with the complexity in business logic story and the system must be applicable for handling huge number of data. - Technology : The core system is still also the combination of Struts2, Spring and Hibernate framework on server side, together with AJAX , JSON, Jquery, HTML/CSS, EasyUI framework on client-side. - Job : Working both on front-end and back-end side; team leader for developing team; developing 20+ screen for the system in customer management modules and sale order modules; generating reports based on specific requirements from customer; handling security criteria for web developer; apply best practice for tweaking system performance; constructing and in charge of weekly new technology meeting; main responsible for reporting directly to project manager. |
+| 07/2012 - 11/2012 : | Starting working as a front-end developer for a web-based system for department of justice in District 6. - About : This is a system that handles the justice management process for people's birth and death information, location, … at District 6, HCM city. - Technology :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| Struts2, Jquery, Javascript, HTML and CSS2, Jasper Report. Job : Developing birth, marriage and location management screen; marriage and birth certificate by using Jasper report. Using integrate with data retrieve from database through Hibernate object and service.   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+9/2008 - 05/2012: Projects at University .
+
+9/2008 - 05/2012
+
+Many assignment projects using C, C++, C#.Net, Asp.Net, Java, XML, SQL Server, and My SQL.
+
+02/2012-  5/2012 : Final  Capstone  Project  for  Graduation  using  Java  (  Hibernate framework and POI library ) , HTML , CSS , SQL Server .
+
+<!-- image -->
+
+## 08/2010 - 05/2011 : On-Job Training at FPT Software Company - FPTSS, G33
+
+| 10/2010 - 01/2011   | Served as DMS deployer in ERP Ajinomoto-DMS project(FPTSS)                                       |
+|---------------------|--------------------------------------------------------------------------------------------------|
+|                     | Learning , mastering and deploying the DMS PDA system to Ajinomoto Supervisors                   |
+| 02/2011 - 05/2011   | Served as Java developer , VB.NET and Oracle PL/SQL Developer and tester in TABATA project (G33) |
+
+Migrate sql data from mySQL to Oracle PL/SQL modules.
+
+Coding new VB.NET modules.
+
+Coding Java website modules
+
+Ly Thien Nhan

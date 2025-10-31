@@ -1,0 +1,263 @@
+!
+
+!
+
+## CURRICULUM VITAE
+
+"
+
+"
+
+## 1. PERSONAL INFORMATION
+
+| Full name     | Lam, Nguyen Quoc Dai                                                                |
+|---------------|-------------------------------------------------------------------------------------|
+| Date of birth | 17 April 1988                                                                       |
+| Address       | 685/66/16A Xo Viet Nghe Tinh street, ward 26, district Binh Thanh, Ho Chi Minh city |
+| Phone         | (08)3 511 2235/ 0938 288 005                                                        |
+| Email         | dailamnguyen88@gmail.com                                                            |
+
+## Summary
+
+3.5 year Experienced in web based-application development using J2EE Technologies, especially in Front End skills: UI/UX "
+
+## Relevant Achievements
+
+Friendly with professional SCRUM process Weekly demo for HP Product Manager / Functional Architect in Prague "
+
+- Main responsibility in almost complex UI components of HP Cloud: Enterprise Atlas
+- Got High performance rating from Project manager / Leader of SkillSoft team at CSC in 2 years
+- Promoted to Software Engineer after 5 months of joining CSC
+- Passed the university Ð recruiting examination with the score of 28.5
+
+## Skills
+
+Front End - strong:
+
+- HTML5 &amp; CSS3
+- Javascript, Ajax, Jquery, Sencha ExtJs 3.4 &amp; 4.2
+- XML/XSLT
+
+## Media Designs - basic:
+
+- Web based graphic: Adobe Photoshop
+
+- Vector graphic: Adobe Illustrator, Inkscape
+
+- Sound: Adobe Audition, Sony Sound Forge
+
+!
+
+"
+
+## Career Path Relevant Work Experience
+
+!
+
+## Java &amp; Relates - good:
+
+- J2EE
+- Frameworks: Strut, Spring IOC, hibernate
+
+"
+
+## Database - basic:
+
+- Oracle 11g, 12
+- Microsoft SQL
+- IBM DB2
+
+"
+
+## Continuous Integration - basic:
+
+- Build Server: Jenkins Build Management ( Hudson)
+- Build Script: Ant / Maven
+
+## Automation Test - good:
+
+- Chrome web driver
+- Selenium simulator
+
+## Operation Systems:
+
+- Window XP / 7 / 8
+- Window server 2003 / 2008
+- Linux RH (basic)
+- Mac OS Leopard / Lion / Mavericks (basic)
+
+"
+
+"
+
+## Personal
+
+- Good at designing &amp; scripting
+- Communication: good writing, basic speaking
+
+<!-- image -->
+
+!
+
+!
+
+!
+
+## Project HP Enterprise Atlas
+
+HP EA is a Project &amp; financial management product of HP Cloud Automation Management Group. (Web-based Application)
+
+## Best Features:
+
+- Real-time graphic reports
+- Applying Enterprise architecture - Archimate Model ( better than CMMI)
+- Data graphic vector navigation
+- Integration with many enterprise products
+- Strong UI/UX with HTML5 &amp; CSS3 apply
+- Complex Roles &amp; Relations support
+- Structure design plug-in for Visual Studio
+- Data modifying plug-in for Eclipse
+- Graphic Viewpoint plug-in for Inkscape.
+
+"
+
+Team:  5 in Prague, Czech. Over 30 in Viet Nam Main task:
+
+- Implement front-end features:
+- Tree map data display components
+- Structure map data display components
+- Radial chart data display components
+- Multi dashboard portliest
+- Runtime data queries
+- Take care almost UI issues cross-browser support:
+- Latest IE ( 8 Ð 11)
+- Latest Chrome &amp; Firefox
+
+## Software Designer II (Engineer)
+
+From April 2013 to now
+
+"
+
+!
+
+"
+
+## Project HP Systinet
+
+HPS is a SOA Management product of HP Cloud Automation Management Group. It is a webbased application which manages SOAP services, business processes, policies with much kind of artifact types.
+
+## Best Features:
+
+- Integration with many products: BSM, LDAP, Layer7
+- Strong Data graphic navigation
+- Strong Customization
+- Revision management
+- Relation management
+- Life time management
+- Multi-environments supports :
+- Servers: JBoss 5 / Oracle Web Logic
+- OS: Linux Red hat / Window server 2008
+- Database: Oracle 11g / MS SQL 2008 / IBM DB2
+
+!
+
+"
+
+Team:  5 in Prague, Czech. Over 20 in Viet Nam
+
+Main task:
+
+- Take care almost UI issues cross-browser support
+- Implement front-end components:
+- Data collection relation filters
+- Data graphic vector navigation multi layouts
+- UI Customization Engine
+
+"
+
+"
+
+## Software Designer II (Engineer)
+
+From November 2012 to April 2013
+
+!
+
+"
+
+"
+
+"
+
+## Project ILT Instructor Led Training
+
+!
+
+"
+
+## ✓ Runtime data queries
+
+## Project SLA Skillport Leading Advantages
+
+SLA is Knowledge Center of SkillSoft company, the training teams of customer will base on the sample courses/packages to design their company courses, training &amp; rating for employees. From Jan 2012, we start to integrate social network for SLA.
+
+## Main task:
+
+- SLA 2.0: as front-end designer role, main responsible in design new SLA 2.0 package/course template
+- SLA 2.1: as front-end designer role, integrate social network to SLA, main responsible in design UI
+- Old browsers ( IE6, Firefox 2É) &amp; tablet (iOS/Android) supports
+- Team: 10 members in team SLA and more than 30 members in SkillSoft team
+- Techniques: Web service, Java/JSP, JQuery/CSS/Ajax, XML/XSLT
+
+CSC Vietnam
+
+!
+
+<!-- image -->
+
+364 Cong Hoa street, Etown3 Tan Binh district, Ho Chi Minh city
+
+From July 2010 to April 2012
+
+"
+
+## Automation QA Engineer
+
+From May 2012 to October 2012
+
+- Maintain the automation project &amp; development use cases. Techniques: Javascript / xPath / CSS / Java and other servers / databases configuration
+- Implement new use-case automation scripts (Ant /Java )
+- Daily Report Jenskin builds quality.
+- Research new automatic technologies
+
+!
+
+"
+
+"
+
+!
+
+ILT is e-learning web-based product which manages schedule &amp; courses of teacher, trainer and student online from SkillSoft Company - top 20 content companies with large customers such as: Yahoo, HP, CSC and ToyotaÉ
+
+- Task: control conflict schedules, tracking &amp;reporting, upgrade User Interface
+- Team: 20 members in ILT team and more than 30 members in SkillSoft team
+- Techniques: Strut/Hibernate, Java/JSP, JQuery / CSS / Ajax
+- Reference http://www.skillsoft.com/
+
+<!-- image -->
+
+!
+
+From May 2010 to June 2010
+
+Attend the 2 months training-course about the process of game product for fresher.
+
+## Education
+
+- Bachelor  of  Science  Ð  Computer  Science,  University  of  Natural  Science,  Ho  Chi Minh City, Vietnam July 2010, Average Score: 7.3 (focused to UI/UX subjects)
+- English skills:
+- Reading &amp; understanding technical documents
+- Common communication skills
+- TOEIC Certificate 435 ( not update from early 2011)

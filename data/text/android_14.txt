@@ -1,0 +1,56 @@
+## CURRICULUM VITAE
+
+## NGUYỄN CÔNG SƠN
+
+Cellphone: 0937881037 Email: sonnguyen1187@gmail.com
+
+## * PERSONAL INFORMATION:
+
+- Full name: Nguyễn Công Sơn - Gender: Male - Date of birth: 01 - 01- 1987 - Place of birth: Đồng Nai - Address: 5- Đỗ Thừa Tự Street -Tân Quý Ward -Tân Phú District -HCM City - Home phone: 0854088654 - Married status: Single - Cell phone: 0937881037 - Email: sonnguyen1187@gmail.com - Nationality: Vietnamese
+
+## * EDUCATION:
+
+-  - 2005 -  2010: Post &amp; Telecommunications Institute of Technology Major: Information Technology (IT)  - 2002 - 2005: Xuân Lộc High school
+
+## * LANGUAGE SKILL:
+
+-  English: Advanced
+
+## * TECHNICAL SKILL:
+
+-  Good at: Android, java, C/C++,C#, Asp.net,Winform , Database Manager ,SQL, My SQL
+-  Moderate : PHP, Computer Networking
+
+## *  SOFT SKILL:
+
+-  Teamwork
+-  Fast learning ,good research
+-  Easy to adapt new environment
+-  Communication
+
+## * WORKING EXPERIENCE:
+
+-09/2010 - 11/2012             - Android developer at TMA - Android Trainer at TTC
+
+- -11/2012 - Now : - Android Leader at Vinasource
+
+## * PROJECTS:
+
+| PROJECTS                                                                                                                                                                                                   | TECHNOLOGIES                                                         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Social Networks Duties:  Support Technical ,Coding, fix bug                                                                                                                                               |  Android SDK  Database  SQLite  JSon  Web service  Custom view |
+| Development : Mobile Application for Guest in Hotel (Android) version 3 Develop support guest can booking hotel, booking restaurant, request some services …. Duties:  Support Technical ,Coding, fix bug |  Android SDK  Database  SQLite  kSOAP2  Web service  Thread    |
+| Enhancement : Mobile Application for Guest in Hotel (android, iOS) version 2 Develop support guest can booking hotel, booking restaurant, request some services …. Duties:  Coding, fix bug               |  PhoneGap(1.9)  JavaScript  HTML                                  |
+| Development: Mobile Application for Housekeeping Develop Android applications for housekeepers and hotel managers to manage and communicate housekeeping related work Duties:  Coding, Communications     |  Android SDK  SQLite  kSOAP2  Web service  Thread               |
+
+| Development: VOIP (Android) A soft phone on Android that helps users manage multiple VoIP calls at the same time (hold, park or answer) Duties:  Coding                |  Android SDK 2.2  AIDL  Broadcast & Receiver  Content Provider  Multi-Threading  Multi-Progress  Audio Control  SIPdroid engine (MjSipStack)  SIP protocol   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Development: SMS (Android) Android application for manipulating SMS sending / receiving. Duties:                                                                        |  Android SDK 2.x  Android widgets  ITelephony Service + Phone state listener  Broadcast receiver  SQLite                                                         |
+| Development: Mobile Dictionary (Android) Key features:  Word suggestion  Word lookup  Bookmark  History  Multiple dictionaries Duties:  Coding                    |  Android SDK  SQLite  Read/ write File  NDK  Facebook SDK                                                                                                        |
+| Development: Mobile Application about Map (Android) Develop a location-based application on that helps to find locations nearby or in a specific area. Duties:  Coding |  Android SDK  Google direction services  Google API  Google Map                                                                                                   |
+
+## * HOBBIES AND ACTIVITIES:
+
+I am a responsible person and I always try to work creatively. I draw a line between work and pleasure, working hours and leisure time. I don't have much free time, but if I have I prefer to spend it with my friends. My favorite way of spending time is playing football. In computer space, my true passion is computer software research.
+
+## Nguyễn Công Sơn
